@@ -1,0 +1,1084 @@
+Plot ID,S. no,Species,Leaf wet mass,Above ground mass,Stem mass,Root mass,Stem length,Root length,Root % lost,Species ID,Comments 02,Comments 01
+KDM4,S1,S1,b,0.48,0.3,0.09,9.8,6,,PsyNig,,
+KDM5,S5,S5,0.15,0.52,0.33,0.16,18,11.4,,uk,,
+KDM5,S4(1),S4,0.2,1.03,0.8,0.09,26,11,,uk,,compound leaf
+KDM5,S4(2),S4,0.08,0.89,0.73,1.06,19.4,12.2,,uk,,compound leaf
+KDM5,S3,S3,0.67,3.72,1.65,1.11,24,11,,uk,,
+KDM5,S1,S1,1.02,7.69,4.38,1.96,37.5,19.1,,Litsea,,
+KDM5,S2,S2,NA,NA,NA,NA,NA,NA,,DimLon,,"Dimocarpus longan , dried"
+EXTR1,S2(1),S2,0.43,2.5,1.7,4.2,19.5,32.5,,PsyNig,,
+EXTR1,S2(2),S2,0.48,2.39,0.74,0.75,12,14,,PsyNig,,
+EXTR1,S6,S6,0.28,0.81,0.17,0.28,9.4,11,,uk,,
+EXTR1,S1(1),S1,0.1,0.46,0.17,0.4,7,12.5,,SymRac,,
+EXTR1,S2(3),S2,0.22,1.11,0.53,0.21,10,9.5,,PsyNig,,
+EXTR1,S9,S9,0.23,0.93,0.42,0.23,13,7,,uk,,
+EXTR1,S5,S5,0.14,0.4,0.22,0.1,12.5,8,,uk,,Herbivored
+EXTR1,S2(4),S2,2.63,11.38,3.05,1.37,22.5,16,,PsyNig,,
+EXTR1,S8,S8,0.45,3.05,2.18,1.02,18.5,20,,Garcinia,,
+EXTR1,S11,S1,NA,1.61,0.96,0.59,14.5,10.5,,uk,,
+EXTR1,S3(1),S3,0.92,3.71,1.71,2.93,16.5,24,,uk(Litsea),,
+EXTR1,S4,S4,0.34,1.45,1.07,0.57,15.5,6.5,,uk(aglia),,
+EXTR1,S1(2),S1,0.16,1.03,0.37,0.36,11.5,10,,SymRac,,
+EXTR1,S7,S7,0.32,0.79,0.21,0.49,12,27.5,,Cin,,
+EXTR1,S12,S1,0.92,6.82,2.16,5.62,25,24,,PsyMac,,
+EXTR1,S2(5),S2,2.12,10.4,3.03,2.06,23,22.5,,PsyNig,,
+KDM41,S1,S1,0.32,1,0.36,0.22,14.5,6.5,,uk,,serated
+KDM41,S9,S9,0.93,2.7,1.53,1.2,26.5,14,,uk,,"glaucous,alternate"
+KDM41,S5,S5,0.46,2.14,1.49,2.96,22,27,,SymRac,,
+KDM41,S13,S1,0.63,3.88,1.88,1.83,38,19,,Cin,,
+KDM41,S6,S6,1.01,5.95,3.97,3.26,38,25,,uk(blachia),,
+KDM41,S14,S1,0.75,3.91,3.06,2.09,29,12,,ActBou,,
+KDM41,S10,S1,1.77,9.36,4.24,2.82,25,11,,PsyNig,,sr- High
+KDM41,S13(2),S1,0.59,3.63,2.1,4.72,30.5,27.5,,Cin,,dry and herbivored/diseased
+KDM41,S4,S4,1.91,7.21,2.73,1.67,16,17,,PsyMac,,
+KDM41,S5(2),S5,0.35,2.84,1.65,2.19,17.5,17.5,,SymRac,,sr - Med
+KDM41,S5(3),S5,0.23,0.89,0.62,0.23,11,11,,SymRac,,sr - Med
+KDM41,S10(2),S1,1.1,4.52,1.16,1.24,11.5,13,,PsyNig,,
+KDM41,S12,S1,0.1,1.12,0.92,4.58,11,15.5,,uk(Syz),,
+KDM41,S2,S2,0.31,1.24,0.73,0.34,16.5,7,,uk,,alternate
+KDM41,S16,S1,0.44,1.82,0.84,0.84,18,14.5,,ReiAna,,
+KDM41,S16(2),S1,0.32,1.01,0.46,0.5,16,14.5,,ReiAna,,
+KDM41,S12(2),S1,0.09,5.79,4.88,3.61,30,20,,uk(Syz),,
+KDM41,S15,S1,0.77,1.33,1.33,0.94,14,22,,uk,,
+KDM41,S17,S1,0.52,2.59,1.42,0.7,25.5,15.5,,Litsea,,
+KDM42,S1(1),S1,0.25,0.77,0.42,0.57,15.5,10,,Blachia,,
+KDM42,S1(2),S1,0.14,0.37,0.21,0.32,13,12,,Blachia,,
+KDM42,S2(1),S2,0.92,0.92,0.34,0.16,13,5,,uk,,alternate
+KDM42,S2(2),S2,0.18,0.57,0.29,0.22,14,7.5,,uk,,alternate
+KDM42,S2(3),S2,0.16,0.47,0.26,0.15,14,8,,uk,,alternate
+KDM42,S2(4),S2,0.14,0.4,0.15,0.12,10,11,,uk,,alternate
+KDM42,S2(5),S2,0.19,0.62,0.31,0.18,13,11.5,,uk,,alternate
+KDM42,S3,S3,0.15,0.95,0.48,0.2,17,5,,ClaDen,,
+KDM42,S4,S4,0.08,0.27,0.19,0.07,12,4,,,,one leaf only measured
+KDM42,S5(1),S5,0.15,0.4,0.16,0.1,12,5,,,,
+KDM42,S5(2),S5,NA,2.38,2.11,NA,30,NA,,,,root couldnt collect
+KDM43,S1,S1,0.28,2.48,0.93,0.54,30,6,,,,
+KDM43,S1(2),S1,0.26,1.09,0.42,0.45,20,9,,,img75253,Possibly a weed
+KDM43,S2,S2,0.62,1.71,0.44,1.37,12,NA,,PsyNig,,psychotria stem-root issue
+KDM43,S3,S3,0.07,0.84,0.38,0.23,16.5,12,,,,
+KDM6,S1,S1,0.03,0.15,0.06,0.08,9,7,,,"103-3076, 103-3077, 103-3093, 103-3097",Possibly Syzygium
+KDM6,S2,S2,0.78,4.26,2.25,1.23,20.2,4.6,,,,
+KDM6,S2(2),S2,0.01,0.09,0.03,1.05,2,10.2,,,,
+KDM6,S3,S3,0.07,0.4,0.23,1.73,9,16,,,,Only one leaf used
+KDM6,S3(2),S3,0.34,1.1,0.63,3.35,12,26.5,,,,
+KDM6,S4,S4,0.03,0.32,0.11,0.38,11.4,27.2,,,"103-3099, 103-3102, 103-3103",Possibly a weed
+KDM7,S1,S1,0.6,2.83,0.78,0.27,11.2,6.2,,,,
+KDM7,S1(2),S1,0.38,2.44,1.45,0.54,17.5,12.2,,,,
+KDM7,S1(3),S1,0.54,2.74,0.89,0.68,10.8,9.6,,,,
+KDM7,S1(4),S1,0.53,2.39,0.64,0.5,8.2,11.2,,,,
+KDM7,S2,S2,0.39,2.39,0.86,0.58,27,8.4,,,"103-3106, 103-3109, 103-3110, 103-3111",Unidentified
+KDM7,S2(2),S2,0.17,1.16,0.5,0.56,25.6,10.6,,,,
+KDM8,S1,S1,0.19,0.77; (0.49),0.23,4.17,8.4; (8.6),"28.5; (7.2, 4.6)",,,7.2 and 4.6 are lengths of the secondary and teritary roots respectively,Dead stem attached to the root weighs 0.49 kg and measures 8.6 cm
+KDM8,S1(2),S1,0.14,1.36,0.69,0.49,19.2,12.2,,,,
+KDM8,S2,S2,0.53,2.06,1.42,2.54,28.5,20.8,,,"103-3113, 103-3114",Unidentified
+KDM8,S3,S3,0.11,0.67,0.24,0.12,19,5.8,,,"103-3116, 103-3117",Unidentified
+KDM8,S4,S4,0.3,0.43,0.13,0.12,11,10.4,,,"103-3123, 103-3124",Unidentified
+KDM8,S4(2),S4,0.32,0.48,0.16,0.15,11,12.6,,,,
+KDM9,S1,S1,1.72,9.03,6.02,1.92,39,13.2 + 9.8 +3.6,,,,3 branches in the root system have been measured
+KDM9,S1(2),S1,NA,NA,8.31,2.53,15.2,14.2 + 8.8,,,,2 branches in the root system have been measured. Leaves have undergone herbivory
+KDM9,S1(3),S1,0.22,5.28,4.27,6.42,25.6,28.4 + 19 + 16,,,,3 branches in the root system have been measured
+KDM9,S1(4),S1,0.54,3.62,2.66,0.9,21.6,12.8 + 1.2,,,,2 branches in the root system have been measured. 
+KDM9,S1(5),S1,0.34,3,2.09,1.53,18.2,11.8 + 10.5 ,,,,3 branches in the root system have been measured. 
+KDM9,S1(6),S1,1.01,4.57,2.31,0.99,28.8,21.8 + 12.2,,,,2 branches in the root system have been measured. 
+KDM9,S2,S2,0.1,0.68,0.29,0.37,19.8,8.5,,,,Psyzygium sp?
+KDM10,S1,S1,1,17.48,11.53,3.7,11.4,22.5,,,,
+KDM10,S1(2),S1,1.14,4.62,1.48,1.78,15.6,18,,,,
+KDM10,S1(3),S1,1.2,6.13,2.44,1.71,21,21.8,,,,
+KDM10,S1(4),S1,1.05,4.23,1.98,1.19,19.5,15.8 + 10,,,,2 branches in the shoot system have been measured. 
+KDM10,S2,S2,0.32,1.49,1.14,0.88,22.5,12.2,,,"103-3261, 103-3266, 103-3269",
+KDM11,S1,S1,1.68,11.33,4.64,1.56,25.6,12.8,,,,
+KDM11,S1(2),S1,1.99,8.47,2.58,1,17.8,14.6,,,,
+KDM11,S1(3),S1,1.31,7.73,2.62,0.53,18.5,9.2 + 6,,,,2 branches in the root system have been measured. 
+KDM11,S1(4),S1,1.5,7.05,3.07,1.53,15.6,18.8,,,,
+KDM11,S1(5),S1,0.98,4.6,1.01,0.96,10.6,15 + 11.6 + 5.5,,,,3 branches in the root system have been measured. 
+KDM11,S1(6),S1,0.21,1.07,0.39,0.38,15,7,,,,
+KDM11,S2,S2,0.09,0.77,0.21,0.07,13.4,4,,,,
+KDM11,S3,S3,0.92,8.1,4.84,6.9,28.2,28,,,,"103-3239, 103-3240"
+KDM11,S3(2),S3,0.38,2.8,1.85,2.36,17.2,11.4,,,,
+KDM11,S4,S4,0.26,7.5,5.69,2.68,27.4,17.4,,,,"103-3241, 103-3249, 103-3250"
+KDM11,S4(2),S4,0.21,2.34,1.99,0.77,14.2,10,,,,main stem broken and dead. New regrown stem measured
+KDM11,S5,S5,0.92,3.57,1.49,0.89,24,10,,,,"103-3252, 103-3253"
+KDM11,S5(2),S5,0.41,1.78,1.37,0.78,20.5,10.8,,,,
+KDM11,S5(3),S5,0.63,1.87,0.62,0.72,16.1,17.2,,,,
+KDM11,S5(4),S5,0.58,1.29,0.22,0.13,10.2,5.4,,,,
+KDM11,S5(5),S5,0.15,0.84,0.45,NA,15.5,NA,,,,Root missing
+KDM12,S1,S1,0.65,2.47,1.02,0.27,15.5,9,,,,
+KDM12,S1(2),S1,1.07,10.17,5.82,8.15,27 + 12.6,34.2,,,,2 branches in the shoot system have been measured. 
+KDM12,S2,S2,0.07,0.4,0.16,0.11,14,6,,,,
+KDM12,S3,S3,0.2,1.39,0.37,0.34,14,8.2,,,,
+KDM12,S4,S4,0.06,0.47,0.25,0.45,8.8 + 8.8,7.8,,,"103-3254, 103-3255, 103-3256",2 branches in the shoot system have been measured. 
+KDM12,S5,S5,0.47,12.39,5.47,4.78,30.5,22.8,,,"103-3257, 103-3258",
+KDM13,S1,S1,1.15,6.11,3.08,2.63,16.8,17.8,,,"103-3274, 103-3273, 103-3272",
+KDM13,S2,S2,2.57,18.09,8.33,3.01,12.4,18.4,,PsyNig,,Psychotria nigra
+KDM13,S2(2),S2,0.64,6.44,3.37,0.62,29.2,12.8,,PsyNig,,Only one leaf used for leaf-trait measurement. Others diseased or undergone herbivory
+KDM13,S2(3),S2,0.48,2.69,1.32,0.27,20,5.4,,PsyNig,,
+KDM13,S3,S3,0.18,0.74,0.4,0.12,17.8,10.8,,,"103-3275, 103-3277, 103-3278",
+KDM13,S4,S4,0.07,0.43,0.18,0.09,12.8,5.8,,PsyNig,,
+KDM13,S4(2),S4,0.07,0.56,0.19,0.08,14.5,8.5,,PsyNig,,
+KDM13,S4(3),S4,0.22,1.37,0.3,0.38,14.2,13.2,,PsyNig,,
+KDM13,S4(4),S4,0.12,2.05,1.76,1.65,15,9.8,,PsyNig,,
+KDM13,S4(5),S4,0.01,0.2,0.08,0.02,11.5,4.2,,PsyNig,,
+KDM13,S4(6),S4,0.08,0.52,0.13,0.11,10.8,7.8,,PsyNig,,
+KDM13,S4(7),S4,0.01,0.4,0.21,0.13,15.5,6,,PsyNig,,
+KDM13,S4(8),S4,0.16,1.02,0.26,0.23,13.8,13.5,,PsyNig,,
+KDM13,S4(9),S4,0.14,1.1,0.33,0.25,15.8,8.8,,PsyNig,,
+KDM13,S5,S5,0.53,3.96,1.39,0.98,40,12.2,,,"103-3338, 103-3339, 103-3340, 103-3341",
+KDM13,S6,S6,0.17,0.94,0.25,0.12,15.2,8.2,,,"103-3342, 103-3344, 103-3345",
+KDM13,S7,S7,0.23,0.6,0.3,0.14,10.8,7.6,,,"103-3346, 103-3347, 103-3349, ",
+KDM13,S8,S8,0.18,1.15,0.34,0.4,16.5,8.6,,,"103-3350, 103-3351",
+KDM14,S1,S1,0.9,6.33,2.82,2.27,28.5,16,,,"103-3279, 103-3280, 103-3282",
+KDM14,S2(1),S2,1.06,5.28,1.8,2.07,22.8,22.5,,,"103-3283, 103-3284",
+KDM14,S2(2),S2,1.12,4.81,1.7,1.48,21.8,15.6,,,,
+KDM14,S3,S3,0.12,0.43,0.28,0.19,14.2,7.6,,,"103-3286, 103-3287",
+KDM15,S1(1),S1,0.35,3.17,2.15,1.97,30.4,17.4,,SymRac,,Symplocos
+KDM15,S1(2),S1,0.29,1.07,0.77,1.08,14,17.8,,SymRac,,
+KDM15,S1(3),S1,0.04,0.44,0.28,0.28,13.2,10.8,,SymRac,,
+KDM15,S2,S2,0.22,1.89,0.92,0.32,11 + 5.8 + 3.8,5.4,,Gargum,,3 branches in the shoot system have been measured. Garcinia. gummigatta
+KDM15,S3(1),S3,0.39,1.67,0.81,0.74,21.6,12.4,,LitTra,,Litsea
+KDM15,S3(2),S3,0.2,0.58,0.19,0.15,11.8,8.6,,LitTra,,
+KDM15,S4,S4,0.22,5.71,2.95,4.68,27.2,22.2,,Syz,,Syzygium
+KDM15,S5,S5,0.71,1.95,0.41,6.69,15,28.6,,ActBou,,Actinodaphna
+KDM15,S6(1),S6,0.28,3.9,3.1,3.65,22.6,19.8,,Psynig,,Psychotria nigra
+KDM15,S6(2),S6,0.24,4.23,3.27,4.12,25,26.2,,Psynig,,
+KDM15,S7(1),S7,0.73,3.1,1.38,1.94,14.2,16.6 + 15.2,,PsyMac,,Psychotria macrocarpa. 2 branches in the root system have been measured. 
+KDM15,S7(2),S7,0.34,4.28,3.34,NA,26.6,NA,,PsyMac,,Roots couldn't be retrieved
+KDM16,S1(1),S1,0.31,1.67,0.57,0.15,10.6,6.5 + 4.8,,PsyNig,,PSYCHOTRIA. 2 branches of stem have been measured
+KDM16,S1(2),S1,0.74,4.63,1.58,0.65,17.8,15.4,,PsyNig,,
+KDM16,S1(3),S1,0.44,1.32,0.46,0.47,13.2,15.2,,PsyNig,,
+KDM16,S1(4),S1,0.24,1.29,0.67,0.14,13.2,9.2,,PsyNig,,
+KDM16,S1(5),S1,0.69,3.25,0.79,0.33,22.4,13,,PsyNig,,
+KDM16,S1(6),S1,2.04,11.64,4.45,2.53,24.2,16.6 + 12.6,,PsyNig,,2 branches of roots have been measured
+KDM16,S2,S2,0.11,0.47,0.26,0.29,15.2,9.8,,,"Galaxy J6: 20201117_231949, 20201117_231742",
+KDM16,S3(1),S3,0.27,10.8,5.12,4.43,30.5,22.4,,,"Galaxy J6: 20201117_232225, 20201117_232241, 20201117_232139",
+KDM16,S3(2),S3,0.26,2.69,0.85,0.91,27.6,25.4,,,,
+KDM17,S1(1),S1,0.55,2.8,0.74,0.57,19.4,9.6,,Litsea,Litsea travancorica,
+KDM17,S1(2),S1,0.98,3.7,1.32,1.56,23.1,19.1,,Litsea,,
+KDM17,S1(3),S1,0.32,1.27,0.37,NA,13.6,NA,,Litsea,,Root unavailale
+KDM17,S1(4),S1,0.26,0.78,0.38,0.2,12.5,4.1,,Litsea,,Root broken off partly
+KDM17,S1(5),S1,0.16,0.39,0.14,0.35,9.8,7.8,,Litsea,,
+KDM17,S1(6),S1,0.14,0.95,0.61,0.16,17.5,4.5,,Litsea,,Only one available leaf was examined
+KDM17,S2,S2,0.58,4.24,1.72,2.51,24.1,16.5,,ClaDen,Clausena Dendata,
+KDM17,S3,S3,0.34,1.4,0.64,0.44,16.8,11.5,,,"103-3451, 103-3453",
+KDM17,S3(2),S3,0.38,1.31,0.54,0.42,15.2,7.8,,,,
+KDM17,S4,S4,0.16,0.48,0.21,0.1,10.2,NA,,,"Galaxy J6: 20201117_201147, 20201117_201255, 20201117_201350",
+KDM18,S1,S1,0.82,4.41,1.64,1.65,22,14.5,,,"103-3404, 103-3405, 103-3406",
+KDM18,S2,S2,0.38,1.42,0.7,0.75,17.4,15.8,,,"103-3407, 103-3412, 103-3413",
+KDM19,S1(1),S1,0.32,0.74,0.22,2.32,11.5,15.8,,,"103-3441, 103-3443, 103-3446",
+KDM19,S1(2),S1,0.41,4.86,3.88,4.67,2.6 +20,17.4,,,,2 branches in the shoot system have been measured
+KDM19,S1(3),S1,0.42,1.38,0.9,2.14,17,18.4,,,,
+KDM19,S2,S2,0.82,3.62,2.37,3.47,40.4,19.2,,,"103-3447, 103-3448, 103-3449",
+KDM20,S1(1),S1,1.91,12.45,7,6.4,33,41.5,,,,
+KDM20,S1(2),S1,0.82,3.33,0.71,4.9,9,22.4,,,,
+KDM20,S2,S2,0.57,2.23,0.73,0.46,18.8,6,,,"103-3447, 103-3448, 103-3449",
+KDM23,S1,S1,3.02,22.53,12.34,5.09,40,7.2,,,,
+KDM23,S1(2),S1,1,12.12,6.17,1.61,35.6 + 12.2,7.8,,,,2 branches each of stem and root have been measured
+KDM23,S1(3),S1,0.2,1.19,0.78,0.07,13,5,,,,
+KDM23,S4,S4,1,12.74,5.41,6.4,33.5,23.8,,,"Galaxy J6: 20201118_193956,  20201118_194015,  20201118_194042",
+KDM23,S5,S5,0.18,0.68,0.33,0.25,8.8,5.6,,,"Galaxy J6: 20201118_194254,  20201118_194303,  20201118_194319",
+KDM23,S6,S6,0.19,1.07,0.69,0.94,11 + 19,6,,,"Galaxy J6: 20201118_193343,  20201118_194420,  20201118_194509",19 is the length of the attached dead stem 
+KDM21,S1,S1,-,5.76,4.5,4.76,31,33.6+18.1,,,,herbivored/diseased leaves and stem regrown / main root branch measured only
+KDM21,S3,S3,0.12,1.58,1,0.33,22.7,7,,,,
+KDM21,S2,S2,0.4,1.54,0.45,0.4,15.5,10,,,,
+KDM22,S1,S1,2.82,13.8,7.73,10.12,40.2,31.6,A,,"Galaxy J6: 20201118_223107,  20201118_223122,  20201118_223213","Diseased, Herbivored"
+KDM22,S2,S2,0.82,3.75,1.34,0.89,23.5,21.4,B,,"Galaxy J6: 20201118_223640,  20201118_223721,  20201118_223742",
+KDM22,S3,S3,0.46,1.72,0.6,0.28,18.6,9.6,C,,"Galaxy J6: 20201118_223815,  20201118_223908,  20201118_223926",
+KDM22,S4,S4,0.21,0.8,0.66,0.18,31.5,7.9,D,,"Galaxy J6: 20201118_224103,  20201118_224115",Length of 2 branches in stem system added up
+KDM24,S1,S1,0.31,2.97,1.89,NA,22.2,NA,,NotBed,,NOTHOPEGIA. Roots traits were not measured. Thick roots.
+KDM24,S2,S2,0.09,3.55,2.8,2.49,14.2,35.6,,Syz,,SYZYGIUM. Apart of the root was cut while sampling
+KDM28,S1,S1,1.12,10.04,4.29,3.89,37.3,18.5,E,,"Galaxy J6: 20201120_221109,  20201120_221150",
+KDM28,S2,S2,0.56,2.22,0.79,2.32,12.6,20.2 + 19.8,F,,"Galaxy J6: 20201120_221357,  20201120_221419, 20201120_221434",2 branches of roots have been measured
+KDM28,S3,S3,0.25,3.21,2.31,1.16,24.6,5.6,,,"Galaxy J6: 20201120_221457,  20201120_221519, 20201120_221535",
+KDM28,S4(1),S4,0.41,1.89,0.9,0.96,16.2,13.2,,,"Galaxy J6: 20201120_221556,  20201120_221607, 20201120_221617",
+KDM28,S4(2),S4,0.09,0.6,0.23,0.17,11.8,10,,,,
+KDM28,S4(3),S4,0.21,1.13,0.34,0.24,15.6,9.2,,,,
+KDM28,S4(4),S4,0.13,0.57,0.18,0.29,8.6,13.6,,,,
+KDM28,S4(5),S4,0.23,1.14,0.48,0.49,12,15.6,,,,
+KDM28,S4(6),S4,0.1,0.57,0.2,0.18,9.2,15.4,,,,
+KDM26,S1(1),S1,0.26,1.07,0.28,0.42,11.4,14,,SymRac,,SYMPLOCOS
+KDM26,S1(2),S1,0.08,0.55,0.11,0.29,5.6,12.6,,SymRac,,
+KDM26,S2(1),S2,0.64,2.54,0.81,0.3,12,3,,PsyNig,,PSYCHOTRIA NIGRA
+KDM26,S3,S3,0.93,2.51,0.7,0.8,19.6,13.5,,,"Galaxy J6: 20201121_085358, 20201121_085414, 20201121_085429",
+KDM26,S4,S4,0.18,0.63,0.27,0.42,11,13.8,,,"Galaxy J6: 20201121_090438, 20201121_090452, 20201121_090515",
+KDM26,S5,S5,0.65,3.29,2.2,4.12,19.8,11.8,,,"Galaxy J6: 20201121_104319, 20201121_104429, 20201121_104441",A portion of the root could not be retrieved 
+KDM26,S6,S6,0.32,1.34,0.43,0.63,13.8,21.4,,,"Galaxy J6: 20201121_104455, 20201121_104513, 20201121_104528",
+KDM26,S7,S7,0.84,5.13,1.49,1.47,17.8,10.2,,LitBou,,LITSEA BOURDILLONI
+KDM27,S1,S1,0.71,2.79,0.69,0.96,11.8,12.4,,,"Galaxy J6: 20201121_094225, 20201121_094708, 20201121_094723",
+KDM27,S2,S2,0.11,1.24,0.64,0.57,19.8 + 9,22.2,,,"Galaxy J6: 20201121_094804, 20201121_094853, 20201121_095018",2 branches of stem have been measured
+KDM27,S3,S3,0.2,1.24,0.42,0.24,24.8,8.2,,,"Galaxy J6: 20201121_095121, 20201121_095207, 20201121_095225",
+KDM27,S4,S4,0.2,1.28,0.78,0.26,11.4 + 2.2,7.6 + 2.8,,,"Galaxy J6: 20201121_095249, 20201121_090440, 20201121_095458",Stem broke while measuring. 2 branches of root have been measured
+KDM25,S1,S1,0.28,1.78,0.74,2.5,13.4,13,,,"Galaxy J6: 20201121_112652, 20201121_112833, 20201121_112852",A portion of the root could not be retrieved 
+KDM25,S2,S2,0.14,2.27,1.47,2.31,25.6 + 7.8,30.5,,,"Galaxy J6: 20201121_113004, 20201121_113044, 20201121_113101",2 branches of stem have been measured
+KDM25,S3,S3,0.15,2.14,1.8,3.54,28,24.4,,,"Galaxy J6: 20201121_113123, 20201121_113150, 20201121_113242",
+KDM29,S1(1),S1,-,3.27,2.31,1.68,24.9,18.6+14.2,,PsyNig,,"one leaf measured, herbivored, stem broken and regrown"
+KDM29,S1(2),S1,0.39,3.98,1.99,1.49,19.4,15.1+11.2,,PsyNig,,
+KDM29,S2,S2,0.19,2.02,1.33,0.76,28.8,8.2,,uk,,root partly lost
+KDM30,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,
+KDM31,S1,S1,1.49,6.52,3.29,0.82,29.2,13.2 + 3.6,,PsyNig,,2 branches of roots have been measured
+KDM31,S2,S2,0.13,0.9,0.44,0.1,24.8,8.2,,G,"Galaxy J6: 20201122_225031, 20201122_225103, 20201122_225149",4 other similar looking individuals dried before analysis
+KDM31,S2(2),S2,NA,NA,NA,NA,NA,NA,,G,,
+KDM31,S2(3),S2,NA,NA,NA,NA,NA,NA,,G,,
+KDM31,S2(4),S2,NA,NA,NA,NA,NA,NA,,G,,
+KDM31,S2(5),S2,NA,NA,NA,NA,NA,NA,,G,,
+KDM32,S1,S1,1.22,6.56,2.61,1.24,22.2,13.8 + 4.2,,PsyNig,Galaxy J6: 20201123_123140,Psychotria sp. A part of one branch of root is missing
+KDM32,S2(1),S2,0.39,2.34,1,0.72,27.4,16.6,,,"Galaxy J6: 20201123_123541, 20201123_123618, 20201123_123647",
+KDM32,S2(2),S2,0.25,0.74,0.25,0.16,16.6,17,,,,
+KDM32,S2(3),S2,NA,NA,NA,NA,NA,NA,,,,
+KDM35,S1,S1,0.15,1.27,0.7,0.38,14,12.2,,Psy,"Galaxy J6: 20201123_150902, 20201123_150937, 20201123_150948",Psychotria sp
+KDM35,S2(1),S2,0.97,4.69,1.53,0.8,22.4,9.2,,,"Galaxy J6: 20201123_151004, 20201123_151013, 20201123_151030",
+KDM35,S2(2),S2,0.46,2.26,1.33,0.91,30.4,12,,,,
+KDM35,S3(1),S3,0.22,0.64,0.3,0.15,11.4 + 8.8,6.8,,Litsea,"Galaxy J6: 20201123_151054, 20201123_151125, 20201123_151212",Litsea sp. 8.8 is the lentgth of a dead stem attached to the main stem
+KDM35,S3(2),S3,0.4,1.62,0.86,0.26,24.2,5,,Litsea,,A major portion of root was lost while sampling
+KDM35,S3(3),S3,0.24,1.08,0.67,0.34,17,6,,Litsea,,A major portion of root was lost while sampling
+KDM33,S1,S1,0.47,1.45,0.65,0.62,17.8,12 + 4,,Litsea,"Galaxy J6: 20201123_181150, 20201123_181207, 20201123_181225",Litsea sp. Root broke while sampling and a small portion of it can not be retrieved
+KDM34,S1,S1,1.15,6.47,2.34,2.81,19.4,17.8 + 5.8,,Psy,"Galaxy J6: 20201123_183108, 20201123_183207, 20201123_183224",Psychotria sp. 2 branches of roots have been measured 
+KDM34,S2,S2,0.42,1.49,0.51,0.4,18.2,9,,Syz,"Galaxy J6: 20201123_183245, 20201123_183306, 20201123_183322",Syzygium sp. A small portion of root was lost while sampling
+KDM34,S3,S3,0.36,2.3,1.01,1,20.4,15.2,,Litsea,"Galaxy J6: 20201123_183359, 20201123_183421, 20201123_183449","Litsea sp. A portion of root was lost while sampling. Only one leaf available for analysis, other two were herbivored and deceased"
+KDM34,S4,S4,0.27,1.14,0.48,2.02,12.8,23.6,,,"Galaxy J6: 20201123_183510, 20201123_183838, 20201123_183901",Unidentified
+KDM36,S1(1),S1,0.28,2.03,1.19,0.23,17,7.8,,PsyNig,,Psychotria nigra
+KDM36,S1(2),S1,1.31,5.79,2.33,0.99,20.4,9.2,,PsyNig,,A portion of root was lost while sampling
+KDM36,S1(3),S1,0.28,1.05,0.48,0.37,9.8,11.8,,PsyNig,,
+KDM36,S1(4),S1,0.19,1.13,0.37,0.53,7,11.5,,PsyNig,,
+KDM36,S1(5),S1,0.3,1.48,0.36,0.37,7.4,11.5,,PsyNig,,
+KDM36,S1(6),S1,0.55,1.74,0.7,0.67,9.4, ,,PsyNig,,A small portion of root was lost while sampling
+KDM36,S1(7),S1,0.88,4.48,1.35,0.74,15,9,,PsyNig,,
+KDM36,S1(8),S1,2.23,14.35,3.7,4.1,22,22.2,,PsyNig,,
+KDM36,S2,S2,0.85,4.41,1.72,2.93,25,13.6,,PsyMac,,Psychotria macrocarpa. A major portion of the root was lost while sampling
+KDM36,S3,S3,0.02,0.15,0.05,0.09,9,9.2,,SyzRub,,Syzygium rubicundum
+KDM36,S4,S4,0.68,7.28,3.98,3.85,40,10.6,,ClaDen,,Murraya koenigii
+KDM36,S5(1),S5,0.69,2.48,0.96,0.36,26.4,8,,,"Galaxy J6: 20201124_143930, 20201124_144011, 20201124_144122",Unidentified. One more individual of this species has dried off before analysis
+KDM36,S5(2),S5,0.1,0.3,0.12,0.19,11.8,10.4,,,,Only one complete leaf was present in the seedling
+KDM36,S6,S6,1.09,3.86,1.73,0.92,21,14.5,,,"Galaxy J6: 20201124_150331, 20201124_150358, 20201124_150407",Unidentified. Serated leaves
+KDM36,S7,S7,NA,NA,NA,NA,NA,NA,,NotBed,"Galaxy J6: 20201124_150906, 20201124_150929, 20201124_150948",Nothopegia sp. Specimen has dried off before analysis
+KDM37,S1(1),S1,0.36,1.34,0.51,0.81,9.8,18,,PsyNig,,Psychotria nigra
+KDM37,S1(2),S1,1.75,7.69,2.69,2.89,17.4,15.6,,PsyNig,,
+KDM37,S1(3),S1,1.78,11.03,4.02,1.07,35.2,8.2,,PsyNig,,
+KDM37,S2,S2,1.49,6.47,2.6,1.03,30.6,10.2,,PsyMac,,Psychotria macrocarpa
+KDM37,S3(1),S3,3.73,12.45,4.17,6.34,29.2,23.6,,,"Galaxy J6: 20201126_145435, 20201126_145522, 20201126_145546",Unidentified. Serrated leaves
+KDM37,S3(2),S3,0.15,0.47,0.16,0.11,10.5,8.6,,,,
+KDM37,S4,S4,0.47,4.2,3.06,5.55,20.8,20 + 1.2,,,"Galaxy J6: 20201126_145718, 20201126_145801, 20201126_145837",Unidentified. Only one complete available. Root was broken into a long and a short piece.
+KDM37,S5(1),S5,0.5,1.62,0.63,0.4,15.4,10.4,,,"Galaxy J6: 20201126_145904, 20201126_145948, 20201126_150104",Unidentified.
+KDM37,S5(2),S5,0.69,2.17,0.86,0.51,22.6,10.8,,,,
+KDM37,S6(1),S6,1.03,4.05,0.89,3.46,17.8,24.2,,,"Galaxy J6: 20201126_150236, 20201126_150301, 20201126_150436",Unidentified. A portion of the root was lost while sampling.
+KDM37,S6(2),S6,0.88,2.98,0.82,11.74,10.6,50,,,, A portion of the root was lost while sampling.
+KDM38,S1,S1,0.37,4.32,2.19,1.63,29 + 12.2,15.8,,,"Galaxy J6: 20201126_194254, 20201126_194328, 20201126_194345",Unidentified. There are 2 branches of stems.
+KDM38,S2,S2,0.38,1.17,0.42,0.58,13.6,13.6,,,"Galaxy J6: 20201126_194451, 20201126_194519, 20201126_194541",
+KDM44,S1(1),S1,0.36,7.57,4.42,1.66,26 + 20 + 20.4 + 10.4,16.5,,,"Galaxy J6: 20201121_113004, 20201121_113044, 20201121_113101",Unidentified. Stem is branched.
+KDM44,S1(2),S1,0.15,0.56,0.17,0.1,11.5,6.5,,,,Root is damaged.
+KDM44,S1(3),S1,0.08,0.26,0.13,0.05,10.4,5.2,,,,
+KDM44,S1(4),S1,0.08,0.43,0.15,0.05,10.8,5.2,,,,
+KDM44,S2,S2,0.23,1.23,0.46,0.69,14.2,14,,Symplocos,"Galaxy J6: 20201126_201448, 20201126_201503, 20201121_201538",Simplocos sp. A small portion of the root was lost while sampling.
+KDM44,S3,S3,0.43,2.59,1.39,3.91,16,19.2,,,"Galaxy J6: 20201126_214157, 20201126_214225, 20201121_214237",Unidentified. Almost half of the root was lost while sampling.
+KDM44,S4,S4,0.9,2.3,0.5,0.26,16,2.6,,,"Galaxy J6: 20201126_214317, 20201126_214327, 20201121_214345",Unidentified. A major portion of the root was lost while sampling.
+KDM44,S5,S5,0.53,2.04,0.82,0.44,18.8,2.5,,,"Galaxy J6: 20201126_214402, 20201126_214422, 20201121_214433",Unidentified. A major portion of the root was lost while sampling. Alive stem was attached to a dead stem.
+KDM44,S6,S6,0.92,3.28,0.89,0.56,19.6,19.6,,,"Galaxy J6: 20201126_214508, 20201126_214522, 20201121_214532",Unidentified. 
+KDM45,S1,S1,0.16,2.57,1.17,0.88,20 + 19.2,17.4,,Syz,"Galaxy J6: 20201126_223728, 20201126_223832, 20201126_223912",Syzygium sp. There are 2 branches in stem.
+KDM45,S2(1),S2,0.74,3.29,1.2,1.65,19.2,15.4,,SymRac,,Simplocos sp. A portion of the root was lost while smapling.
+KDM45,S2(2),S2,0.46,2.48,0.55,2.05,15.4,19.6,,SymRac,,A portion of the root was lost while smapling.
+KDM45,S3,S3,0.15,0.66,0.21,0.19,13.8,11.2,,PsyMac,,Psychotria macrocarpa
+KDM45,S4,S4,0.55,2.35,1.11,0.25,20.4,9.2,,,"Galaxy J6: 20201127_195245, 20201127_195325, 20201127_195340",
+KDM45,S5,S5,0.55,6.56,4.39,15.91,24,39.4,,,"Galaxy J6: 20201127_195358, 20201127_195454, 20201127_195506",
+KT1,S1,S1,0.93,4.25,1.25,4.1,33.2,18,,PsyNig,,
+KT1,S2,S2,0.27,4.69,3.51,2.43,51.5,18,,Syz,"Galaxy J6: 20201127_214258, 20201127_214336, 20201127_214346",Syzygium sp.
+KT1,S3,S3,0.95,5.08,0.94,1.65,17,18.8,,,"Galaxy J6: 20201127_214401, 20201127_214411, 20201127_214428",Unidentified. A small portion of the root was lost while sampling.
+KT1,S4(1),S4,0.56,1.98,0.7,0.55,12,14.4,,,"Galaxy J6: 20201127_214459, 20201127_214506, 20201127_214523",Unidentified.
+KT1,S4(2),S4,0.22,0.77,0.38,0.41,12.2,12.6,,,,
+KT1,S4(3),S4,0.12,0.5,0.2,0.16,11.8,9,,,,
+KT1,S4(4),S4,0.34,1.07,0.48,0.36,11,10.5,,,,
+KT1,S4(5),S4,0.3,0.93,0.32,0.24,12.4,9.6,,,,
+KT3,S1,S1,0.18,1.33,0.73,0.93,14.6,14.5 + 1.2,,SymRac,,Symplocos sp. Tip of the stem broke off while analysing. Only one complete leaf is available.
+KT2,S1,S1,0.23,1.5,0.79,0.28,11,8.8,,PsyNig,"Galaxy J6: 20201128_083338, 20201128_083353, 20201127_083416",Psychotria sp.
+KT2,S2,S2,0.95,2.77,1.09,0.96,24.2,15,,,"Galaxy J6: 20201128_083428, 20201128_083449, 20201127_083502",Unidentified
+KT4,S1(1),S1,0.26,1.19,0.7,0.57,21,11,,Cin,,Cinnamomum verum
+KT4,S1(2),S1,0.46,2.77,1.48,0.56,31.5,10.6,,Cin,,
+KT4,S2,S2,0.57,3.41,0.76,1.72,18.6,18.4,,,"Galaxy J6: 20201128_100143, 20201128_100425, 20201127_100434",Unidentified.
+KT4,S3,S3,0.69,2.26,0.71,0.41,19.6,7.6,,,"Galaxy J6: 20201128_100452, 20201128_100500, 20201127_100507",Unidentified. A short portion of the root was lost while sampling.
+KT4,S4,S4,0.23,1.22,0.45,0.58,20.4,20.8,,,"Galaxy J6: 20201128_100522, 20201128_100550, 20201127_100604",Unidentified.
+KT5,S1,S1,0.18,1.34,0.61,0.15,11.5,8.2,,PsyNig,,Psychotria nigra
+KT5,S2,S2,0.81,6.87,4.61,6.11,44.6,34,,GarMor,"Galaxy J6: 20201130_121609, 20201130_121731, 20201130_121746",Unidentified. Sap yellowish.
+KT6,S1(1),S1,0.88,5.28,1.65,4.35,26.5,32.6,,GarMor,"Galaxy J6: 20201130_125132, 20201130_125212, 20201130_125234",Unidentified. A small portion of the root was lost while sampling.
+KT6,S1(2),S1,0.38,1.55,0.49,1.39,13.4,17.5,,GarMor,,A small portion of the root was lost while sampling.
+KT6,S2(1),S2,0.74,3.53,1.28,2.16,15.5,10.5,,Symplocos,"Galaxy J6: 20201130_125310, 20201130_125333, 20201130_125402",Simplocos sp
+KT6,S2(2),S2,0.73,3.17,1.43,1.81,24.4,19.5,,Symplocos,,
+KT6,S2(3),S2,0.11,1.74,1.26,2.98,12.2,14.8,,Symplocos,,Almost half of the root was lost while sampling.
+KT6,S3,S3,0.12,0.51,0.26,0.06,19.8,8.6,,Syz,"Galaxy J6: 20201130_125614, 20201130_125639, 20201130_125654",Syzygium sp. Apical tip of the stem broke off during analysis.
+KT6,S4,S4,0.09,0.81,0.49,0.54,13.4,12,,,"Galaxy J6: 20201130_125726, 20201130_125752, 20201130_125802",Unidentified.
+KT6,S5(1),S5,0.23,0.87,0.41,0.76,12.4,16.2,,I,"Galaxy J6: 20201130_125828, 20201130_125839, 20201130_125849",Unidentified.
+KT6,S5(2),S5,0.24,0.82,0.32,0.31,13.4,12.2,,I,,
+KT6,S5(3),S5,0.16,0.5,0.21,0.15,12.5,9.2,,I,,
+KT6,S6(1),S6,0.15,1.17,0.49,1.04,20.4,14.8,,J,"Galaxy J6: 20201130_125923, 20201130_125949, 20201130_130015",Unidentified.
+KT6,S6(2),S6,0.22,1.94,0.95,0.56,27,13.6,,J,,
+KT6,S7,S7,0.59,2.02,0.9,0.11,22.5,3.4,,,"Galaxy J6: 20201130_130035, 20201130_130050, 20201130_130058",Unidentified. A major part of the root was lost while sampling.
+KT7,S1,S1,0.96,10.68,4.87,2.11,31+30.3,10,,,"Honor 9 Lite: 20201130_164806, 20201130_170109, 20201130_170130",Unidentified
+KT7,S2,S2,1.44,6.5,2.99,2.19,33.3,19.4,,,"Honor 9 Lite: 20201130_171149, 20201130_171948, 20201130_172000",Unidentified
+KT7,S3,S3,0.25,4.29,3.61,4.7,27,18.2,,,"Honor 9 Lite: 20201130_172820, 20201130_173537, 20201130_173557",Unidentified
+KT8,S1,S1,0.45,2.86,0.9,1.36,19 + 9,18.5,,,"Galaxy J6: 20201202_115915, 20201202_115929, 20201202_115954",Unidentified. Branched stem.
+KT8,S2(1),S2,0.27,1.68,0.44,0.3,18.2,11.4,,,"Galaxy J6: 20201202_120022, 20201202_120036, 20201202_120056",Unidentified.
+KT8,S2(2),S2,0.27,1.71,1.01,0.67,24.8,20,,,,
+KT8,S3,S3,0.6,4.8,2.25,6.24,46.4,30.2,,,"Galaxy J6: 20201202_120109, 20201202_120123, 20201202_120144",Unidentified.  A samll portion of the rootwas lost while samping.
+KT8,S4,S4,13,0.79,0.56,0.32,15.4,14.8,,,"Galaxy J6: 20201202_120206, 20201202_120218, 20201202_120228",Unidentified.
+KT9,S1(1),S1,0.24,1.29,0.52,0.15,9.6,6.8,,PsyNig,,Psychotria nigra
+KT9,S1(2),S1,0.15,1.12,0.51,0.13,10.6,5 + 4.4,,PsyNig,,
+KT9,S2,S2,0.05,1.42,0.62,1.2,16.4 + 18.8 + 8.4,19.8,,,"Galaxy J6: 20201130_190736, 20201130_190839, 20201130_190902",Unidentified
+KT9,S3,S3,0.34,1.63,0.79,0.51,18.6,9,,,"Galaxy J6: 20201130_192737, 20201130_192757, 20201130_192838",Unidentified
+KT9,S4(1),S4,0.22,0.93,0.35,0.17,13,8.2,,,"Galaxy J6: 20201130_203858, 20201130_203926, 20201130_203944",Unidentified
+KT9,S4(2),S4,0.41,1.22,0.46,0.17,15.6,7.6,,,,
+KT9,S4(3),S4,0.12,0.62,0.3,0.1,13.5,6.5,,,,
+KT9,S4(4),S4,0.14,0.61,0.29,0.15,10.5,7,,,,
+KT9,S4(5),S4,0.18,0.49,0.25,0.16,10.5,6.5,,,,
+KT9,S4(6),S4,0.27,0.79,0.32,0.26,11.5,8.8,,,,
+KT9,S5,S5,0.29,2.88,2.48,1.65,27,20.8,,,"Galaxy J6: 20201130_204233, 20201130_204301, 20201130_204316",Unidentified
+KT10,S1(1),S1,1.45,7.92,2.93,1.87,23.4,23.2,,,"Galaxy J6: 20201202_103227, 20201202_103303, 20201202_103312",Unidentified
+KT10,S1(2),S1,0.95,4.37,1.22,0.49,15,8.8,,,,
+KT10,S1(3),S1,0.51,2.34,0.75,0.12,13.4,3.4,,,,
+KT10,S2(1),S2,0.99,2.56,1.3,1.48,21.4,11.8,,,"Galaxy J6: 20201202_103341, 20201202_103352, 20201202_103400",Unidentified. Nearly half of the root was lost while sampling.
+KT10,S2(2),S2,0.15,0.59,0.31,0.12,15.2,4,,,,A major portion of the root was lost while sampling.
+KT10,S3(1),S3,0.19,0.54,0.11,0.13,7,6.6,,,"Galaxy J6: 20201202_103427, 20201202_103434, 20201202_103445", A small portion of the root was lost while sampling.
+KT10,S3(2),S3,0.12,0.49,0.11,0.08,7.4,5.8,,,,
+KT10,S4,S4,0.13,0.61,0.28,0.21,16.2,8.2,,,"Galaxy J6: 20201202_103548, 20201202_103603, 20201202_103611",Unidentified. A small portion of the root was lost while sampling.
+KT11,S1,S1,0.79,11.32,5.22,NA,36.4,NA,,,"Galaxy J6: 20201202_130237, 20201202_130251, 20201202_130305",Unidentified. Root was lost while sampling.
+KT11,S2(1),S2,0.41,2.1,0.72,1.84,14.2,21,,,"Galaxy J6: 20201202_130322, 20201202_130332, 20201202_130348",Unidentified.
+KT11,S2(2),S2,0.42,0.76,0.34,1.35,17.5,28.6,,,,
+KT11,S3(1),S3,0.58,1.84,0.47,0.46,13.8,10.6,,,"Galaxy J6: 20201202_130409, 20201202_130426, 20201202_130444",Unidentified. A small portion of the root was lost while sampling.
+KT11,S3(2),S3,0.22,0.49,0.2,0.18,13.2,10.6,,,,
+KT11,S4,S4,0.27,0.91,0.34,0.24,15,11.5,,Cin,,Cinnamum
+KT11,S5,S5,0.67,5.38,2.27,3.6,22.8 + 12,22.5 + 16.2,,,"Galaxy J6: 20201202_130507, 20201202_130518, 20201202_130529",Unidentified. Both stem and root are branched.
+KT11,S6(1),S6,0.64,1.85,0.62,0.48,15,10.6,,,"Galaxy J6: 20201202_130556, 20201202_130610, 20201202_130620",Unidentified.
+KT11,S6(2),S6,0.42,2.15,0.66,0.42,15,11.4,,,,
+KT11,S6(3),S6,0.59,1.11,0.38,0.45,16,9.4,,,,A small portion of the root was lost while sampling.
+KT11,S7,S7,0.85,5.09,2.34,1.35,28.4,22.6,,,"Galaxy J6: 20201202_130635, 20201202_130700, 20201202_130718",Unidentified.
+KT12,S1,S1,0.05,0.24,0.08,0.08,11.6,10.6,,Syz,Galaxy J6: 20201202_181413,syzygium sp.
+KT12,S2,S2,0.12,0.82,0.33,0.27,13.8,10.2,,,"Galaxy J6: 20201202_181457, 20201202_181507, 20201202_181522",Unidentified.
+KT12,S3(1),S3,0.92,3.82,1.6,0.39,19,9.4,,,"Galaxy J6: 20201202_181543, 20201202_181554, 20201202_181652",Unidentified.
+KT12,S3(2),S3,0.75,3.48,1.27,0.38,19.6,11,,,,
+KT12,S3(3),S3,0.67,7.1,5.14,0.42 + .88,43.6 + 20,13.8 + 7 + 9,,,,Stem and root have multiple branches.
+KT12,S3(4),S3,0.33,1.94,0.83,0.18,13.2,4.2,,,,
+KT12,S3(5),S3,1.13,4.48,2.19,5.15,21.4,27.6 + 11.8,,,,All the leaves have undergone herbivory. Root has 2 branches.
+KT13,S1(1),S1,0.92,3.52,1.34,1.58,24.2 + 8.8,10.8,,,"Galaxy J6: 20201202_193357, 20201202_193425, 20201202_193435",Unidentified. Branched stem. Major portion of the root was lost whilw sampling.
+KT13,S1(2),S1,0.37,1.36,0.5,0.56,16.2,11,,,,
+KT13,S1(3),S1,0.24,1.54,0.48,0.89,17.5,17.8,,,,
+KT13,S2,S2,0.78,7.75,3.93,3.23,39,20.4,,,"Galaxy J6: 20201202_193458, 20201202_193515, 20201202_193531",Unidentified. Over half of the root was lost while sampling.
+KT13,S3(1),S3,0.28,2.67,2.14,2.95,29.6,15.6,,,"Galaxy J6: 20201202_193544, 20201202_193601, 20201202_193647",Unidentified. Nearly half of the root was lost while sampling. Most leaves have undergone herbivory.
+KT13,S3(2),S3,0.14,1.06,0.87,0.9,19.2,13.6,,,,All leaves have undergone herbivory. So only one leaf was scanned.
+KT13,S4,S4,0.85,3,1.02,1.11,20.6,11.8,,,"Galaxy J6: 20201202_193700, 20201202_193708, 20201202_193720",Unidentified. A small portion of the root was lost while sampling.
+KT13,S5,S5,0.66,4.11,2.26,1,26,8.8,,,"Galaxy J6: 20201202_193735, 20201202_193750, 20201202_193801",Unidentified. A small portion of the root was lost while sampling.
+KT13,S6,S6,0.22,2.56,2.13,1.58,18.4,18.4,,,Galaxy J6: 20201202_193829,Unidentified. A very small portion of the root was lost while sampling.
+KT13,S7(1),S7,0.21,0.78,0.28,0.11,17.4,4.2,,,"Galaxy J6: 20201202_193907, 20201202_193922, 20201202_193935",Unidentified. Most part of the root was lost while sampling.
+KT13,S7(2),S7,0.08,0.98,0.74,0.5,21.4,9.6,,,,Most leaves have undergone herbivory.
+KT13,S8(1),S8,0.18,0.95,0.58,0.46,23.4,12.4,,,"Galaxy J6: 20201202_194012, 20201202_194024, 20201202_194043",Unidentified. Only 2 leaves available. One diseased.
+KT13,S8(2),S8,0.09,0.3,0.17,0.14,18.2,10.8,,,,
+KT14,S1(1),S1,1.43,5.68,1.67,0.62,17.5,9.2+8.9,,PsyNig,,P. nigra
+KT14,S2(1),S2,NA,5.03,2.35,4.14,21.6,21.2+9.3,,,"20201203_215353, 20201203_215210, 20201203_215008",unidentified. Diseases and herbivored heavily. No leaf scanned
+KT14,S3,S3,1.81,7.22,2.42,1.42,19.2,11 + 13,,,"G J6: 20201204_173016, 20201204_173023, 20201204_173038",unidentified. Branched roots.
+KT14,S4(1),S4,0.25,1.03,0.51,0.24,24.2,9.8,,,"G J6: 20201204_173110, 20201204_173122, 20201204_173146",unidentified.
+KT14,S4(2),S4,0.3,0.85,0.36,0.29,17.2,14.5,,,,
+KT14,S5,S5,0.28,0.91,0.29,0.21,12.2,7.8,,,"G J6: 20201204_173155, 20201204_173213, 20201204_174045",unidentified.
+KT14,S6,S6,0.21,0.87,0.28,0.18,11.8,6.4,,,"G J6: 20201204_173227, 20201204_173254, 20201204_173304",unidentified. A samll portion of the root was lost while sampling.
+KT14,S7,S7,0.26,0.82,0.34,0.2,13.4,12.2,,,"G J6: 20201204_173318, 20201204_173341, 20201204_173357",unidentified.
+KT15,S1(1),S1,1.48,8.56,1.94,3.08,20.4,13.4,,,"G J6 : 20201204_084322, 20201204_084418, 20201204_084441",Unidentified. Nearly half of the root was lost while sampling.
+KT15,S1(2),S1,2.1,13.88,3.13,2.67,21.6,17.6,,,,
+KT15,S1(3),S1,1.88,5.87,1.94,1.88,15.4,24.4,,,,Herbivored.
+KT15,S1(4),S1,0.86,5.11,1.43,0.56,16.8,13,,,,
+KT15,S2,S2,1.56,7.95,3.09,3.91,37,25.6,,,"G J6 : 20201204_092320, 20201204_092352, 20201204_092413",Unidentified. 
+KT15,S3,S3,0.19,0.66,0.29,0.3,11,12.2,,,"G J6 : 20201204_092426, 20201204_092438, 20201204_092459",Unidentified. 
+KT15,S4,S4,0.55,1.71,0.91,0.85,14.2,16,,,"G J6 : 20201204_092517, 20201204_092533, 20201204_092542",Unidentified. A samll portion of the root was lost while sampling.
+KT15,S5,S5,0.39,1.43,0.66,0.66,9.2,15.2,,,"G J6 : 20201204_092552, 20201204_092600, 20201204_092607",Unidentified. 
+KT15,S6,S6,1.79,7.91,2.13,2.19,26,17.8,,,"G J6 : 20201204_092626, 20201204_092659, 20201204_092719",Unidentified. Nearly half of the root was lost while sampling.
+KT16,S1(1),S1,1.58,5.13,1.94,0.87,26.8,12.5,,,"G J6: 20201204_190454, 20201204_190507, 20201204_190515",Unidentified. A small portion of root was lost while sampling.
+KT16,S2(1),S2,0.51,3.08,0.95,1.91,10.2,23.2,,,"G J6: 20201204_190532, 20201204_190540, 20201204_190548",Unidentified.
+KT16,S2(2),S2,0.49,2.07,0.59,0.79,10.8,14.6 + 2.8,,,,Branched roots.
+KT16,S3,S3,0.32,3.09,2.21,1.89,20 +16.2 + 9.6,9 + 3.8,,,"G J6: 20201204_190603, 20201204_190614, 20201204_190623",Unidentified. Stem and root branched. A large portion of root was lost while sampling.
+KT16,S4,S4,0.56,1.65,0.82,0.54,13.2,7,,,"G J6: 20201204_190632, 20201204_190640, 20201204_190654",Unidentified. A small portion of root was lost while sampling.
+KT16,S5,S5,0.39,0.89,0.49,0.53,12,5.2 + 3 + 2 + 2,,,"G J6: 20201204_190706, 20201204_190714, 20201204_190730",Unidentified. Only one complete leaf is available
+KT17,S1,S1,1.07,4.24,2.53,2.99,24.2,19.3,,,"honor 9 lite: 20201204_202555, 20201204_2013146, 20201204_2013154",Unidentified.
+KT18,S1,S1,1.57,10.35,4.23,1.32,30,10.7,,PsyNig,,Psychotria
+KT18,S2,S2,0.1,3.66,3.59,2.6,29.8+11.5,21.3,,,"honor 9 lite: 20201204_205200, 20201204_205756, 20201204_205818",Unidentified
+KT18,S3,S3,0.36,1.84,1.21,1.7,13.4,12.1+6.2,,PsyNig,,Psychotria. Branched roots
+KT19,S1,S1,2.24,14.88,6.9,2.49,40.2,19.4,,,"honor: 20201204_211334, 20201204_211805, 20201204_211816",Unidentified. Serrated leaves.
+KT19,S2,S2,0.72,4.82,3.15,4.86,25.2,22.6,,GarMor,,Garcinia morella
+KT19,S3,S3,0.27,1.81,0.44,1.24,9.4,11.3,,,"honor: 20201204_214658, 20201204_214950, 20201204_214958",Unidentified. 
+KT20,S1,S1,0.67,1.51,0.84,1.09,20.3,23.7,,,"Realme1: 20201205111121, 20201205111112","alternate,White sap, crenate, appressed veins, 8-11 pairs of secondary veins"
+KT20,S2,S2,0.2,1.57,0.68,1.63,16.3,16.6,,DioPru,"honor 9 lite: 20201205_130006, 20201205_131436, 20201205_131448",Possibly Diospyros pruriens (Ebenaceae) pubescent leaves and stem. Alternate
+KT21,S1,S1,0.79,2.26,0.65,0.71,21.3,20.4,,,"honor 9 lite: 20201205_132744, 20201205_133258, 20201205_133320",Unidentified.
+KT21,S2,S2,0.32,1.06,0.47,0.42,19.2,16.5,,,,
+KT27,S1,S1,1,10.99,4.37,5.25,32.2 + 14.5,24.2,,,"Galaxy J6: 20201205_192238, 20201205_192248, 20201205_192311",Unidentified. A small portion of the root was lost while sampling.
+KT27,S2,S2,0.77,2.58,1.04,0.66,32.4,14.6,,,"Galaxy J6: 20201205_192330, 20201205_192412, 20201205_192419",Unidentified.
+KT27,S3,S3,0.25,0.43,0.17,0.13,12.6,10.6,,,"Galaxy J6: 20201205_192430, 20201205_192437, 20201205_192445",Unidentified.
+KT27,S4,S4,0.24,0.75,0.45,0.12,15.4,3.8,,,"Galaxy J6: 20201205_192459, 20201205_192506, 20201205_192514",Unidentified.
+KT26,S1,S1,0.25,2.44,0.79,0.79,14.6,11.8,,SymRac,"Galaxy J6: 20201206_075742, 20201206_075806, 20201205_075812",Unidentified. Symplocose sp?
+KT26,S2,S2,0.37,2.03,1.09,0.73,20.6,10.8,,,"Galaxy J6: 20201206_075832, 20201206_075840, 20201205_075848",Unidentified.
+KT26,S3,S3,0.43,2.45,0.85,0.75,24.4,14,,,"Galaxy J6: 20201206_075914, 20201206_075923, 20201205_080004",Unidentified.
+KT26,S4,S4,0.89,9.41,5.54,10.27,35.5,37.8,,,"Galaxy J6: 20201206_080027, 20201206_080038, 20201205_080054",Unidentified.
+KT25,S1,S1,0.43,1.14,0.32,0.34,11.6,16.5,,,"Galaxy J6: 20201206_095011, 20201206_095021, 20201205_095029",Unidentified.
+KT25,S2,S2,0.59,2.88,1.5,0.41,27,20.6,,,"Galaxy J6: 20201206_095138, 20201206_095152, 20201205_095213",Unidentified.
+KT22,S1,S1,0.87,3.03,1.42,1.54,17.8,22,,,"Galaxy J6: 20201206_101501, 20201206_101512, 20201205_101522",Unidentified. Herbivored leaves.
+KT22,S2,S2,2.26,11.82,3.86,2.75,26.2,11.6 + 10 + 8.6,,,"Galaxy J6: 20201206_101539, 20201206_101606, 20201205_101625",Unidentified. Herbivored leaves. Branched roots.
+KT22,S3,S3,0.09,0.8,0.6,0.28,23,9.2,,,"Galaxy J6: 20201206_101642, 20201206_101650, 20201205_101700",Unidentified. Herbivored and diseased leaves. Only 1 leaf scanned.
+KT23,S1,S1,1.25,6.25,2.21,1.01,33.5,11.8,,,"Galaxy J6: 20201206_101758, 20201206_101818, 20201205_101827",Unidentified. A small portion of the root was lost while sampling.
+KT23,S2,S2,0.81,2.57,1.01,0.8,18.8,12.4,,,"Galaxy J6: 20201206_101841, 20201206_101848, 20201205_101900",Unidentified. A small portion of the root was lost while sampling.
+KT24,S1,S1,1.86,7.06,3.67,3.31,38.4,21 + 6,,,"Galaxy J6: 20201206_101917, 20201206_101935, 20201205_101947",Unidentified. Most leaves are herbivored. Branched roots. A small portion of the root was lost while sampling.
+KT28,S1,S1,0.8,7.46,2.89,5.74,25.2,21.8 + 12.4 +16,,,"Galaxy J6: 20201206_101917, 20201206_101935, 20201205_101947",Unidentified.
+KT29,S1,S1,1.15,2.38,0.71,2.57,14,31.2,,,"Galaxy J6: 20201206_101917, 20201206_101935, 20201205_101947",Unidentified. Compound leaves. None were complete.
+KT30,S1,S1,0.62,2.64,1.01,0.77,19.2,14,,,"Galaxy J6: 20201206_101917, 20201206_101935, 20201205_101947",Unidentified.
+KT30,S2,S2,0.42,1.84,1,1.24,23,15,,,"Galaxy J6: 20201206_101917, 20201206_101935, 20201205_101947",Unidentified.
+KT31,S1,S1,1.55,5.3,2.29,0.92,24.4,14.8 + 13.8,,,"Galaxy J6: 20201208_193517, 20201208_193533, 20201208_193544",Unidentified. Branched roots.
+KT31,S2(1),S2,0.27,3.17,2.11,0.68,28.2,11.2,,,"Galaxy J6: 20201208_193615, 20201208_193720, 20201208_193738",Unidentified. A very small portion of the root was lost while sampling.
+KT31,S2(2),S2,0.11,0.62,0.13,0.17,9,12.6,,,,
+KT31,S3,S3,0.49,2.25,1.16,1.67,23.2,16.6,,,"Galaxy J6: 20201208_193800, 20201208_193827, 20201208_193838",Unidentified.
+KT31,S4(1),S4,0.54,3.64,1.68,1.97,18,14.8,,,"Galaxy J6: 20201208_193853, 20201208_193926, 20201208_193940",Unidentified. A small portion of the root was lost while sampling.
+KT31,S4(2),S4,0.68,2.67,0.68,2.56,11,21.4,,,,A very small portion of the root was lost while sampling.
+KT32,S1,S1,0.22,0.84,0.29,0.3,10.5,12.6,,,"Galaxy J6: 20201208_204123, 20201208_204145, 20201208_204155",Unidentified.
+KT32,S2(1),S2,0.34,1.54,0.49,1.07,18.2,7.8 + 10.2,,,"Galaxy J6: 20201208_204218, 20201208_204231, 20201208_204240",Unidentified. Root was broken while smapling.
+KT32,S2(2),S2,0.17,0.74,0.28,0.43,13.2,14.6,,,,A very small portion of the root was lost while sampling
+KT33,S1,S1,0.67,2.27,0.66,0.63,16,5.8,,,"Galaxy J6: 20201210_112747, 20201210_112806, 20201208_112819",Unidentified. Major portion of the root was lost while sampling.
+KT33,S2,S2,0.37,3.13,2.08,1.25,34,8.6 + 4. 8,,,"Galaxy J6: 20201210_112839, 20201210_112901, 20201208_112914",Unidentified. Root was broken and a small portion of it was lost while sampling.
+KT33,S3,S3,0.36,2.19,0.99,0.43,19.2,13.6,,GarMor,"Galaxy J6: 20201210_112924, 20201210_112956, 20201208_113011",Unidentified. Garcinia sp?
+KT33,S4,S4,0.53,2.71,1.14,0.78,20,10.2,,,"Galaxy J6: 20201210_114752, 20201210_114758, 20201208_114811",Unidentified.
+KT33,S5,S5,0.15,1.65,1,0.71,19.8,11.2,,,"Galaxy J6: 20201210_114837, 20201210_114852, 20201208_114903",Unidentified.
+KT33,S6,S6,0.94,7.01,2.09,8.62,22.6,37.6,,GarMor,"Galaxy J6: 20201210_115416, 20201210_115517, 20201208_115529",Unidentified. Garcinia sp? A small portion of the root was lost while sampling.
+KT34,S1,S1,0.31,1.68,0.42,0.73,15,14.2,,,"Galaxy J6: 20201210_132555, 20201210_132617, 20201208_132626",Unidentified. A small portion of the root was lost  while sampling.
+KT34,S2,S2,0.9,5.64,2.55,2.99,25.6,16.5,,,"Galaxy J6: 20201210_132638, 20201210_132647, 20201208_132653",Unidentified. Nearly half of the root was lost while sampling. One leaf scanned. Rest were severely herbivored.
+KT36,S1,S1,0.83,3.76,0.88,6.06,15,36,,GarMor,"Galaxy J6: 20201210_132718, 20201210_132732, 20201208_132744",Unidentified. Garcinia sp? A small portion of the root was lost while sampling.
+KT36,S2,S2,1.19,7.39,3.69,6.1,31.4,23.8,,GarMor,"Galaxy J6: 20201210_132810, 20201210_132825, 20201208_132833",Unidentified. Garcinia sp? A small portion of the root was lost while sampling. 1 scanned leaf slightly herbivored.
+KT35,S1(1),S1,0.48,1.79,0.87,0.13,14,5.4,,PsyNig,"Galaxy J6: 20201210_205715, 20201210_205731, 20201208_205742",Psychotria nigra?
+KT35,S1(2),S1,0.52,1.96,0.72,0.18,11,8.6,,PsyNig,,
+KT35,S2,S2,1.22,3.97,1.51,1.56,21.4,11.5,,ClaDen,"Galaxy J6: 20201210_205826, 20201210_205833, 20201208_205842",Curry leaf like. Nearly half of the root was lost while sampling.
+KT35,S3(1),S3,1.26,11.42,6.94,9.17,17 + 17.4 + 9,36,,GarMor,"Galaxy J6: 20201210_205909, 20201210_205939, 20201208_205955",Garcinia sp. Stem branched. A small portion of the root was lost while sampling.
+KT35,S3(2),S3,1.2,6.93,2.88,4.86,22 + 9.2 + 11.2,27.8,,,,A very small portion of the root was lost while sampling.
+KT37,S1,S1,0.22,1.13,0.32,1.54,10,9 + 5.8,,,"Galaxy J6: 20201210_223042, 20201210_223052, 20201208_223100",Unidentified. Broken root. Nearly half was lost while sampling. 1 scanned leaf All leaves herbivored.
+KT37,S2,S2,1.15,3.67,0.97,10.22,16.6,7 + 29.5 + 9.2,,,"Galaxy J6: 20201210_223121, 20201210_223131, 20201208_223150",Unidentified. Broken root. A very small portion of the root was lost while sampling. 
+KT37,S3,S3,1.87,6.98,3.27,4.01,21. 4,33.8 + 6.8,,,"Galaxy J6: 20201210_223210, 20201210_223250, 20201208_223304",Unidentified. White sap. Root broken while sampling.
+VG1,S1(1),S1,0.56,4.32,2.68,0.69,24.8,7.5,,PsyNig,,Psychotria nigra. Nearly 1/3rd of the root was lost while sampling.
+VG1,S1(2),S1,1.51,8.17,3.67,1.78,24.4,11.6,,,,
+VG1,S2,S2,0.5,2.18,0.69,0.39,16.6,9.5,,,,Unidentified. A small portion of the root was lost while sampling.
+VG1,S3,S3,0.21,0.76,0.29,0.09,18,5.2,,,,
+VG2,S1(1),S1,NA,5.59,1.29,6.82,28.4,35.8,,GarMor,,Garcinia sp. Mostly dried. So leaf traits could not be measured. Small portion of root lost while sampling.
+VG2,S1(2),S1,NA,5.56,4.36,7.9,37.4,35.5,,GarMor,,Garcinia sp. Mostly dried. So leaf traits could not be measured. Small portion of root lost while sampling.
+VG3,S1(1),S1,NA,1.73,1.13,1.83,30,17.4,,NotBed,Galaxy J6: 20201215_091030,Unidentified.
+VG3,S1(2),S1,NA,6.44,5.59,6.57,22.6,22.5,,NotBed,,Small portion of the root was lost while sampling.
+VG3,S1(3),S1,NA,2.25,1.81,2.01,42,34.4,,NotBed,,
+VG3,S2(1),S2,NA,0.38,0.2,0.26,16,15.4,,ClaDen,Galaxy J6: 20201215_091042,Curry leaf like species.
+VG3,S2(2),S2,NA,0.6,0.51,1.19,22,19.2,,ClaDen,,
+VG3,S2(3),S2,NA,0.54,0.38,0.72,19,14.8,,ClaDen,,
+VG4,S1,S1,1.78,5.36,3.57,1.65,40,15,,,"Galaxy J6: 20201214_111534, 20201214_111541, 20201214_111551",Unidentified. Herbivored leaves. Close to 1/4rd of the leaf was lost while sampling.
+VG4,S2(1),S2,NA,0.58,0.29,0.18,19.8,7.8,,PsyNig,,Psychotria nigra. Mostly dried. So leaf traits could not be measured.
+VG4,S2(2),S2,NA,0.42,0.27,0.08,16.5,9 + 7,,PsyNig,,Mostly dried. So leaf traits could not be measured. Branched roots
+VG4,S3,S3,NA,0.64,0.32,1.28,15.2,19.8,,uk,,Mostly dried. So leaf traits could not be measured.
+VG4,S4,S4,NA,2.17,1.37,0.44,37.5,9.5,,uk,,Mostly dried. So leaf traits could not be measured. Nearly 1/2 of the root was lost while sampling.
+VG5,S1,S1,0.33,3.42,2.14,0.77,22.4,5 + 8,,PsyNig,,Psychotria nigra. Branched root. Small portions of root was lost while sampling.
+VG5,S2,S2,0.07,0.87,0.48,0.41,21.2,15.8,,,"Galaxy J6: 20201212_091920, 20201212_091959, 20201212_092006",Unidentified.
+VG5,S3,S3,0.61,2.68,1.16,1.27,27.6,19.6,,,"Galaxy J6: 20201212_092023, 20201212_092055, 20201212_092105",Unidentified.
+VG5,S4,S4,NA,3.5,1.89,2.54,34,22.2,,,"Galaxy J6: 20201212_092123, 20201212_092211, 20201212_092218","Unidentified. A small portion of the root was while sampling. Sample dried before analysis,"
+VG5,S5,S5,0.45,8.02,4.55,4.45,32,17.8,,,"Galaxy J6: 20201212_092237, 20201212_092249, 20201212_092300",Unidentified. Nearly 2/3rd of the root was lost while sampling.
+VG5,S6,S6,0.97,8.68,3.91,5.13,30.2,28,,,"Galaxy J6: 20201212_092327, 20201212_092336, 20201212_092347",Unidentified.
+VG6,S1,S1,0.42,1.47,0.49,0.49,21.4,9.8,,,"Galaxy J6: 20201215_104222, 20201215_105219, 20201215_105235",Unidentified.
+VG6,S2,S2,1.39,5.56,1.68,1.73,17.5,13.6 + 5.8,,,"Galaxy J6: 20201215_105303, 20201215_105312, 20201215_105323",Unidentified. Branched root.
+VG6,S3,S3,0.78,3.51,2.01,1.17,42.4,18.6,,,"Galaxy J6: 20201215_105352, 20201215_105405, 20201215_105419",Unidentified.
+VG6,S4,S4,0.47,1.84,0.65,1.12,16,11.6,,,"Galaxy J6: 20201215_105509, 20201215_105553, 20201215_105622",Unidentified.
+VG6,S5,S5,1.71,4.39,1.96,2.14,28.4,25.4,,,"Galaxy J6: 20201215_105633, 20201215_105811, 20201215_105817",Unidentified.
+VG6,S6,S6,1.03,9.91,4.36,9.47,22.6 + 6.5,20.4,,SymRac,"Galaxy J6: 20201215_105836, 20201215_110027, 20201215_110048",Simplocos sp? Stem broken. 2/3rd of root was lost while sampling.
+VG7,S1,S1,0.59,3.65,1.53,2.25,21.4,10,,,"Galaxy J6: 20201215_124925, 20201215_124948, 20201215_124959",Unidentified. Nearly 2/3rd of the root was lost while sampling.
+VG7,S2,S2,0.46,2.85,1.66,0.72,35,18.2,,,"Galaxy J6: 20201215_125047, 20201215_125104, 20201215_125114",Unidentified.
+VG7,S3,S3,0.2,1.28,0.73,0.45,29.2,11.2,,,"Galaxy J6: 20201215_125154, 20201215_125208, 20201215_125219",Unidentified.
+VG7,S4,S4,NA,1.98,1.22,0.43,24. 6 + 21.2,15,,,"Galaxy J6: 20201215_125249, 20201215_125358, 20201215_125406",Unidentified. Mostly dry. So leaves traits can't be measured. Branched stem
+VG7,S5(1),S5,0.19,1.35,0.51,0.68,11,16.4,,PsyNig,"Galaxy J6: 20201215_130214, 20201215_130230, 20201215_130240",Psycotria nigra
+VG7,S5(2),S5,NA,13.78,7.43,5.05,40.2,25,,PsyNig,,Mostly dry. So leaves traits can't be measured.
+VG7,S5(3),S5,NA,5.13,2.46,1.41,31,19,,PsyNig,,Mostly dry. So leaves traits can't be measured.
+VG8,S1,S1,0.62,2.85,0.69,2.76,14.6,17.2,,,"Galaxy J6: 20201215_183721, 20201215_183731, 20201215_183745",Unidentified.
+VG8,S2(1),S2,1.01,3.04,1.02,1.22,19.8,15,,,"Galaxy J6: 20201215_183802, 20201215_183809, 20201215_183817",Unidentified.
+VG8,S2(2),S2,0.18,1.08,0.48,0.42,17,11.5,,,,
+VG8,S3(1),S3,0.98,2.8,1.32,1.72,24.5,17.5,,,"Galaxy J6: 20201215_183859, 20201215_184920, 20201215_183944",Unidentified
+VG8,S3(2),S3,0.17,1.57,1.14,4.06,33.5,22.2,,,,
+VG8,S4,S4,0.52,3.72,2.67,3.46,23,23.2,,,"Galaxy J6: 20201215_183959, 20201215_184007, 20201215_184016",Unidentified. A small portion of the root was lost while sampling.
+VG9,S1,S1,0.85,1.26,0.41,0.58,9,19.2,,,"Galaxy J6: 20201215_194705, 20201215_194725, 20201215_195047",Unidentified.
+VG9,S2,S2,0.04,0.29,0.1,0.08,11.6,6.5,,,"Galaxy J6: 20201215_194439, 20201215_194630, 20201215_194647",Unidentified.
+VG9,S3,S3,0.85,3.33,1.26,1.45,24,17,,,"Galaxy J6: 20201215_194705, 20201215_194725, 20201215_195047",Unidentified. A small portion of the root was lost while sampling.
+VG9,S4(1),S4,0.23,0.91,0.42,1.19,18.4,11.4 + 8.8,,,"Galaxy J6: 20201215_200131, 20201215_200139, 20201215_200200",Unidentified. Broken root. A small portion of the root was lost while sampling.
+VG9,S4(2),S4,0.12,0.71,0.52,0.52,24.5,17.6,,,,
+VG9,S4(2),S4,NA,1.3,0.67,1.84,28.6,28,,,,Mostly dry. So leaf traits could not be measured.
+VG10,S1,S1,0.76,3.49,1.39,1.93,21.5,22.5,,,"Galaxy J6: 20201216_073517, 20201216_073525, 20201216_073538",Unidentified. Most leaves were mildy herbivored.
+VG10,S2,S2,0.22,1.28,0.62,0.84,14.6,12,,,"Galaxy J6: 20201216_073547, 20201216_073600, 20201216_073624",Unidentified. A small portion of the root was lost while sampling.
+VG10,S3,S3,0.52,1.92,1.34,0.77,24.5,12.8,,SymRac,"Galaxy J6: 20201216_073823, 20201216_073846, 20201216_073857",Simplocos sp? A small portion of the root was lost while sampling.
+VG10,S4,S4,NA,1.97,1.17,1.57,28.4,20.4,,ClaDen,"Galaxy J6: 20201216_073910, 20201216_073917, 20201216_073923",Curry leaf like. Mostly dry. So leaf traits could not be measured.
+DG1,S1,S1,0.29,1.76,1.28,0.54,37.5,7.3,,,"honor 9 lite: 20201218_114412, 20201218_114424",unidentified. 
+DG1,S2,S2,0.26,2.35,1.74,2.47,34.3,26.2,,,"honor 9 lite: 20201218_115544, 20201218_115207, 20201218_114909",unidentified. Wavy leaf margin
+DG1,S3,S3,1.78,4.82,2.73,0.99,29.6,13.2,,,"honor 9 lite: 20201218_115940, 20201218_120301, 20201218_120308",Unidentified. Fragrant odour from stem.
+DG1,S4,S4,1.19,5.85,1.69,1.28,32.5,15,,,"honor 9 lite: 20201218_121115, 20201218_121319, 20201218_121331",unidentified
+DG1,S5,S5,0.56,3.71,1.58,0.16,30.4,1,,,"honor 9 lite: 20201218_121921, 20201218_122250, 20201218_122255",unidentified. A large portion of the root was lost while sampling
+DG1,S6 (1),S6,0.58,2.49,0.96,0.32,15,7.7,,PsyNig,,Psychotria
+DG1,S6 (2),S6,0.21,1.01,0.49,0.1,11,6.2,,PsyNig,,Psychotria
+DG2,S1,S1,1.05,6.12,2.62,4.2,28,28.8,,,"honor 9 lite: 20201218_131432, 20201218_131932, 20201218_131940",unidentified
+DG2,S2 (1),S2,0.04,1.84,1.09,2.09,30.2,25.2,,,"honor 9 lite: 20201218_132458, 20201218_133016, 20201218_133027",unidentified.wavy margin. Herbivored leaves. Only 1 leaf scanned.
+DG2,S2 (2),S2,0.29,2.89,1.72,1.32,34.4,19,,,"honor 9 lite: 20201218_134022, 20201218_134044, 20201218_134054",unidentified.
+DG2,S2 (3),S2,0.38,3.57,1.87,1.78,24.6,12.5,,,,unidentified
+DG2,S2 (4),S2,0.32,5.1,3.87,2.99,46,15.5,,,,unidentified. Herbivored and diseased leaves. A portion of the root was lost while sampling
+DG2,S2 (5),S2,0.19,1.98,1.35,0.81,32.4,14.2,,,,unidentified. Herbivored leaves.
+DG2,S2 (6),S2,0.14,1.35,0.8,0.77,27.5,15.6,,,,unidentified
+DG2,S3,S3,0.65,3.25,1.83,1,36.2,12.4,,,"honor 9 lite: 20201218_142911, 20201218_143145, 20201218_143153",unidentified.
+DG2,S4,S4,0.23,1.25,0.79,0.56,31.5+22,13.3,,,"honor 9 lite: 20201218_143456, 20201218_143543, 20201218_143619",unidentified. 
+DG2,S5,S5,0.51,1.49,0.62,0.16,23.1,6.2,,Cin,"honor 9 lite: 20201218_144226, 20201218_144244, 20201218_144250",Cinnamomum spp.
+DG2,S6,S6,0.1,0.68,0.31,0.22,14.2,10,,,"honor 9 lite: 20201218_144738, 20201218_144911, 20201218_144922",Simplocose spp?
+DG2,S7,S7,0.24,0.76,0.37,0.38,10.2,9.5,,,"honor 9 lite: 20201218_145541, 20201218_145621, 20201218_145637",unidentified.
+DG2,S8,S8,0.25,1.07,0.5,12.6,0.13,6.3,,PsyNig,,Psychotria nigra
+VG13,S1,S1,0.28,1.84,0.78,0.25,21.5,8.9,,,,unidentified
+VG13,S2,S2,1.74,11.14,5.88,2.76,39.5,15.8,,,,unidentified olea dioeca?
+VG13,S3,S3,NA,2.19,1.39,0.67,21.3,19.7,,PsyNig,,Psychotria nigra. Leaves diseased and herbivored so not measured
+VG13,S4,S4,0.25,0.87,0.38,0.4,12.3,9.9,,,,unidentified
+VG11,S1(1),S1,3.44,13.03,6.11,6.28,36.9,34.1,,,,morpho 1
+VG11,S1(2),S1,1.23,12.5,7.12,2.75,46.1,30,,,,morpho 1
+VG12,S1,S1,1.73,6.48,2.2,1.57,18.8,13,,PsyNig,,Psychotria nigra
+VG12,S2,S2,0.52,3,3.88,1.69,32.5,14.2,,,,"morpho 1 , single leaf on the plant"
+VG12,S3(1),S3,NA,2.42,2.94,1.72,38.2,9.7,,DimLon,,"Dimocarpus longan , only one leaf good to measure"
+VG12,S3(2),S3,0.48,5.25,2.96,2.23,23.6,17.9,,DimLon,,
+VG12,S3(3),S3,0.32,5.53,1.87,1.94,30.1,9.4,,DimLon,,most part of root lost while sampling
+VG12,S3(4),S3,0.32,1.38,0.53,0.41,13.4,8.8,,,,
+DG9,S1,S1,0.85,4.55,1.91,1.77,30.5,15.3,,,"Realmeone: IMG20201221125836, IMG20201221125858",unidentified. Root half lost.
+DG9,S2,S2,NA,0.77,0.4,0.42,19.5,15.4,,,"IMG20201221132206, IMG20201221132139",unidentified.
+DG9,S3,S3,0.38,3.23,1.55,1.47,23.7,10.5,,,,"unidentified. Stem has minor branches, root half broken off"
+DG9,S4(1),S4,0.38,1.69,0.62,0.77,15.6,12.7,,GarMor,,"Garcinia, yellow sap"
+DG9,S4(2),S4,1.07,4.92,1.23,1.92,21.1,19.1,,GarMor,,
+DG9,S5(1),S5,1.38,6.57,2.36,0.62,22.6,14.6,,PsyNig,,Psychotria nigra
+DG9,S5(2),S5,NA,1.71,0.54,0.58,9.3,14.4,,PsyNig,,leaves herbivored
+DG9,S5(3),S5,NA,1.41,0.51,0.19,10.8,8.6,,PsyNig,,leaves herbivored
+DG9,S5(4),S5,0.48,1.86,0.75,0.16,14.8,7.6,,PsyNig,,NA
+DG3,S1,S1,0.58,2.56,1.22,NA,28,NA,,,"Galaxy J6: 20201221_175050, 20201221_175106, 20201221_175123",Unidentified. Root lost while sampling.
+DG3,S2,S2,0.31,1.1,0.51,0.28,23.2,9.8,,,"Galaxy J6: 20201221_175147, 20201221_175201, 20201221_175218",Unidentified. A small portion of root lost while sampling.
+DG3,S3,S3,0.19,2.42,1.5,0.59,38.6,12.7,,,"Galaxy J6: 20201221_175321, 20201221_175350, 20201221_175405",
+DG3,S4(1),S4,0.72,3.38,1.42,0.27,18,5.2,,,"Galaxy J6: 20201221_175501, 20201221_175515, 20201221_175525",
+DG3,S4(2),S4,0.39,1.47,0.48,0.47,9.3,10.9,,,,
+DG3,S4(3),S4,0.72,5.48,3.79,1.14,32.4,6.4,,,,"major part of root lost, majority of leaves herbivored"
+DG3,S4(4),S4,1.39,5.11,2.37,0.86,20.5,11.8+4.7,,,,"one leaf dried, root branched"
+DG3,S4(5),S4,0.58,2.21,0.88,0.39,13.7,12.9,,,,
+DG3,S4(6),S4,0.41,1.82,0.71,0.45,13.6,12,,,,
+DG3,S4(7),S4,NA,5.32,2.97,1.82,27.1,27.1,,,,
+DG4,S1(1),S1,1.08,4.51,1.62,0.45,14.8,5.5,,,"Galaxy J6: 20201223_225835, 20201223_225842, 20201223_225852",
+DG4,S1(2),S1,NA,1.11,0.7,0.29,17,9 + 3.2,,,,Leaves dried. Root branched
+DG4,S1(3),S1,NA,10.43,5.25,1.29,40.5,11,,,,Leaves dried. Over 1/3rd of root lost while sampling
+DG4,S2(1),S2,NA,3.05,1.41,1.21,29,15.8,,,"Galaxy J6: 20201223_224213, 20201223_224247, 20201223_224307",Leaves dried.
+DG4,S2(2),S2,NA,4.88,3.06,2.33,18.8 + 12.6 + 14.4,16.2,,,,Leaves dried. Near to half of the root was lost while sampling. Branched stem.
+DG4,S3,S3,0.54,2.39,1.09,0.84,31.2,12.6 + 4.2,,,"Galaxy J6: 20201223_224403, 20201223_224411, 20201223_224419",Leaves dried. Branched roots.
+DG4,S4,S4,NA,NA,0.35,0.41,25.8,10,,,,Leaves dried. No leaves.
+DG5,S1,S1,0.73,7.34,3.11,1.14,31.5,4.8 + 3.6,,,"Galaxy J6: 20201224_170522, 20201224_170549, 20201224_170608",Unidentified. Broken roots
+DG5,S2,S2,0.05,0.55,0.15,0.09,12.2,12.4,,Syz,"Galaxy J6: 20201224_171242, 20201224_171258, 20201224_171346",Syzygium sp.
+DG5,S3,S3,0.27,1.38,0.5,0.27,14.8,7.2,,SymRac,"Galaxy J6: 20201224_171357, 20201224_171406, 20201224_171413",Unidentified. Simplocos sp?
+DG5,S4(1),S4,0.88,2.95,1.43,0.96,29.6,12.8,,,"Galaxy J6: 20201224_171448, 20201224_171455, 20201224_171508",Unidentified. A very small portion of the root was lost while sampling.
+DG5,S4(2),S4,NA,1.47,0.98,0.87,27,11.8,,,,A small portion of the root was lost while sampling. Dried leaves.
+DG5,S5,S5,0.12,1.08,0.71,0.62,15.5,18.2,,,"Galaxy J6: 20201224_171631, 20201224_171559, 20201224_171547",Unidentified.
+DG7,S1(1),S1,NA,2.04,1.51,1.55,27,18.2,,,"Galaxy J6: 20201224_185506, 20201224_185514, 20201224_185529",Unidentified. Dried leaves
+DG7,S1(2),S1,NA,1.17,0.61,1.24,17.2,20,,,,Dried leaves
+DG7,S1(3),S1,NA,1.83,0.83,1.77,18.8,19,,,,Nearly 1/3rd of the root was lost while sampling. Dried leaves
+DG7,S1(4),S1,NA,2.69,2.44,1.71,15.2,15.6,,,,A small portion of the root was lost while sampling. Dried leaves.
+DG7,S2,S2,NA,2.55,2.27,1.22,44.5,15,,,"Galaxy J6: 20201224_185725, 20201224_185701, 20201224_185654",Unidentified. Dried leaves
+DG8,S1,S1,NA,3.3,1.37,1.37,38.2,24.8,,,"Galaxy J6: 20201224_204749, 20201224_204801, 20201224_205820",Unidentified. Dried leaves
+DG8,S2,S2,NA,3.3,1.97,1.01,33 + 12.8,9.6,,,"Galaxy J6: 20201224_205221, 20201224_205231, 20201224_205242",Unidentified. Dried leaves. Branched stem. Major portion of root lost while sampling
+DG8,S3(1),S3,NA,1.89,0.99,1.61,32,19,,,"Galaxy J6: 20201224_205314, 20201224_205308, 20201224_205314",Unidentified. Dried leaves
+DG8,S3(2),S3,NA,1.15,0.6,1.15,24,15.6,,,,Dried leaves. A small portion of the root was lost while sampling. Dried leaves.
+DG6,S1(1),S1,NA,3.34,1.86,1.26,28.2,20,,,Galaxy J6: 20201225_105525,Unidentified. Dried leaves.
+DG6,S1(2),S1,NA,5.7,3.17,1.68,34,15.2,,,,Dried leaves.
+DG6,S1(3),S1,NA,0.64,0.24,0.18,11.2,11.8,,,,Dried leaves.
+DG6,S1(4),S1,NA,1.29,0.47,0.28,13.6,12.2,,,,Dried leaves.
+DG6,S1(5),S1,NA,7.08,3.63,1.73,40.6,16.2 + 16.6 + 11.4,,,,Dried leaves. Branched stem.
+DG6,S2,S2,NA,5.59,2.54,1.38,34.5,16,,,Galaxy J6: 20201225_105544,Unidentified. Dried leaves.
+DG6,S3(1),S3,NA,0.9,0.55,0.44,18.6,11.5 + 6.6,,,"Galaxy J6: 20201225_105554, 20201225_1055600",Unidentified. Dried leaves. Branched roots.
+DG6,S3(2),S3,NA,0.86,0.26,0.75,16.6,19,,,,Dried leaves. A very small portion of root was lost while sampling.
+DG6,S3(3),S3,NA,0.28,0.12,0.09,13,12.2,,,,Dried leaves.
+DG6,S4(1),S4,0.41,2.07,0.72,0.91,25.8,23.8,,,"Galaxy J6: 20201225_105641, 20201225_105652, 20201225_105659",Unidentified. 
+DG6,S4(2),S4,0.47,3.16,1.8,1.11,39 + 4,23.2,,,,Stem broke while sampling.
+DG6,S4(3),S4,NA,4.87,3.07,1.9,26.6,23.4,,,,Dried leaves.
+VG14,S1,S1,0.3,1.39,0.87,0.73,15,13.4,,,"Galaxy J6: 20201228_105318, 20201225_105333, 20201225_105349",Unidentified.  A small portion of root was lost while sampling.
+VG14,S2(1),S2,NA,1.04,0.35,1.54,27.5,11.2,,,"Galaxy J6: 20201228_105409, 20201225_105419",Unidentified. Dried leaves.
+VG14,S2(2),S2,NA,1.47,1,0.82,20.5 + 7.6,17.5,,,,Branched stem
+VG14,S2(3),S2,NA,2.61,1.67,2.58,21 + 17.6,21.5,,,,Branched stem. A small portion of root was lost while sampling.
+VG14,S3,S3,NA,4.19,2.72,1.43,36.6,15,,,"Galaxy J6: 20201228_105438, 20201225_105445",Unidentified. Dried leaves.
+VG17,S1,S1,NA,0.48,0.19,0.04,11.4,8,,,Galaxy J6: 20201228_132522,Unidentified. Dried
+VG17,S2,S2,NA,0.98,0.51,0.91,20.5,14.6,,,Galaxy J6: 20201228_132542,Unidentified. Dried. Nearly 1/3rd of the root was lost while sampling.
+VG17,S3,S3,NA,1.49,0.31,0.37,14,16.6,,,Galaxy J6: 20201228_132606,Unidentified. Dried
+VG17,S4,S4,NA,0.79,0.52,0.24,36.4,11.8,,,Galaxy J6: 20201228_132624,Unidentified. Dried
+VG16,S1(1),S1,NA,2.43,1.5,0.74,27.2,12.5,,PsyNig,,Psychotria nigra. Dried. A very small portion of root was lost while sampling.
+VG16,S1(2),S1,NA,2.88,1.61,0.83,20.2,9.6,,PsyNig,,Dried. A very small portion of root was lost while sampling.
+VG16,S1(3),S1,NA,4.54,3.54,0.95,41.2,7.6,,PsyNig,,Dried.
+VG16,S2,S2,NA,0.65,0.41,0.62,17.6,17.2,,,Galaxy J6: 20201228_141039,Dried. Unientified
+VG16,S3,S3,NA,0.9,0.35,0.46,15.8,13.2,,,Galaxy J6: 20201228_141059,Dried. Unientified
+VG16,S4,S4,NA,1.2,0.61,1.16,19.5,15.5,,,Galaxy J6: 20201228_141129,Dried. A small portion of root was lost while sampling. Unientified
+VG16,S5,S5,0.49,5.04,2.46,5.32,46,25.6,,,"Galaxy J6: 20201228_141148, 20201225_141238, 20201225_141254",Dried. A small portion of root was lost while sampling. Unientified
+VG15,S1,S1,NA,1.05,0.94,2.02,20.8,29,,,Galaxy J6: 20201228_154136,Unientified. Dried
+VG15,S2,S2,NA,3.05,1.9,0.4,33.5 + 36.4 + 15,5.4,,,Galaxy J6: 20201228_154205,Unientified. Dried. A major portion of root was lost while sampling. Unientified
+VG15,S3,S3,NA,9.81,8.44,1.8,49.8 +9,11.5,,,Galaxy J6: 20201228_154217,Unientified. Dried. Branched stem.
+VG15,S4(1),S4,NA,10.98,8.81,4.98,38.2 + 18.2 ,24,,,Galaxy J6: 20201228_154311,Unientified. Dried
+VG15,S4(2),S4,NA,2.82,2.41,1.89,31,18.2,,,,
+VG15,S5,S5,NA,4.71,2.93,8.32,27.6 + 35.6 + 11.2,36.8,,,Galaxy J6: 20201228_154324,Unientified. Dried
+VG20,S1(1),S1,0.19,1.04,0.65,0.32,22.4,7,,,"Galaxy J6: 20201228_141148, 20201228_141238, 20201228_141254",Unidentified. A small portion of root was lost while sampling. Unientified
+VG20,S1(2),S1,NA,0.35,0.17,0.12,17.6,9.2,,,,Dried.
+VG20,S2,S2,0.06,0.93,0.75,0.36,20.5,6.4,,,"Galaxy J6: 20201228_190644, 20201228_190652, 20201228_190704",Unidentified. A small portion of root was lost while sampling. Unientified
+VG21,S1,S1,NA,4.68,3.95,4.34,29.4 + 7.5,21.5,,,Galaxy J6: 20201228_194016,Unientified. Dried. Branched stem.
+VG21,S2,S2,NA,1.39,0.67,0.35,19.6,9.2,,,Galaxy J6: 20201228_194059,Unientified. Dried
+VG21,S3(1),S3,NA,1.88,0.97,1.29,21.6,19.5 + 9.4,,,Galaxy J6: 20201228_194120,Unientified. Dried. Branched root
+VG21,S3(2),S3,NA,0.2,0.12,0.78,10.6,26.4,,,,Dried.
+VG21,S3(3),S3,NA,4.65,2.81,1.6,36.4,19.4,,,,Dried. A very small portion of root was lost while sampling. Unientified
+VG21,S3(4),S3,NA,0.14,0.06,0.05,10.6,9.8,,,,Dried.
+VG21,S3(5),S3,NA,0.99,0.79,0.35,29.5 + 15.2,12.6,,,,Dried. Branched stem.
+VG21,S3(6),S3,NA,0.36,0.3,0.13,18,11.2 + 6.5,,,,Dried. Branched root.
+VG21,S3(7),S3,NA,0.26,0.09,1,12,11.6,,,,Dried.
+VG21,S4(1),S4,NA,2.54,1.31,1.03,46,18.6,,,Galaxy J6: 20201228_194153,Unientified. Dried
+VG21,S4(2),S4,NA,2.19,1.85,0.98,41 + 28,22.8,,,,Dried. Branched stem.  A very small portion of root was lost while sampling. 
+VG21,S4(3),S4,NA,3.66,1.1,2.08,46 + 22 + 17.5,31.4,,,,Dried. Branched stem.
+VG22,S1(1),S1,0.77,6.38,3.82,1.9,38 + 12.2 + 12.8,14,,,"Galaxy J6: 20201230_001818, 20201230_001912, 20201230_001928",Unidentified. Branched stem. A major portion of root was lost while sampling.
+VG22,S1(2),S1,0.75,4.36,2.58,1.7,33.8 + 11.2 + 7.2 + 11,10.8,,,,Branched stem. A major portion of root was lost while sampling.
+VG22,S1(3),S1,0.57,4.2,1.83,1.14,27.5 + 6.5 + 7.2 + 6.5,11.8,,,,Branched stem. A major portion of root was lost while sampling.
+VG22,S1(4),S1,NA,2.93,2.1,1.3,29.8 + 11 + 5.2,11.2,,,,"Branched stem. A major portion of root was lost while sampling. Leaves herbivored, so not scanned."
+VG22,S1(5),S1,0.56,1.67,0.97,0.56,24,7.6,,,,Nearly half of root was lost while sampling.
+VG22,S1(6),S1,0.93,2.78,1.12,0.7,23.6,8.8,,,,Nearly half of root was lost while sampling.
+VG22,S2,S2,0.93,3.8,1.49,0.59,25.8,6.6,,GarMor,"Galaxy J6: 20201230_002000, 20201230_002010, 20201230_002033",Unidentified. Yellow sap. Garcinia sp? Nearly half of root was lost while sampling.
+VG22,S3(1),S3,0.93,3.45,0.81,2.1,19.5,24.8,,,"Galaxy J6: 20201230_002927, 20201230_002941, 20201230_003000",Unidentified.
+VG22,S3(2),S3,1,5.98,1.87,1.14,26.6 + 21.2,15.2,,,, A small portion of root was lost while sampling. Branched stem.
+VG22,S3(3),S3,,4.63,1.74,1.01,31,15,,,, A small portion of root was lost while sampling. 
+VG22,S4,S4,0.07,0.89,0.38,0.36,17.2,12.2,,,"Galaxy J6: 20201230_002126, 20201230_002154, 20201230_002221",Unidentified. Syzygium sp?
+VG24,S1(1),S1,0.25,0.89,0.35,0.19,8,8.6,,PsyNig,,Psychotria nigra
+VG24,S1(2),S1,0.35,2.57,0.76,0.9,10.2,22.2,,PsyNig,,Only one non - herbivored leaf was scanned.
+VG24,S2,S2,0.19,0.61,0.16,0.28,7.2,11.8,,,"Galaxy J6: 20201230_035214, 20201230_035234, 20201230_035243",Unidentified.
+VG23,S1(1),S1,0.52,2.36,0.85,1.2,10.6,16.4 + 5.4,,PsyNig,,Psychotria nigra
+VG23,S1(2),S1,0.31,1.91,0.73,0.1,14,9.4,,PsyNig,,
+VG23,S2,S2,NA,1.35,1.12,2.4,29.8 + 7.8,39.2 + 7.4,,,Galaxy J6: 20201230_035323,Unientified. Dried. Branched stem and root.
+VG23,S3,S3,0.54,1.44,0.42,0.33,11.4,13.6,,,"Galaxy J6: 20201230_035340, 20201230_035346, 20201230_035401",Unientified.
+VG25,S1,S1,NA,7.94,3.05,9.94,21.5,34.4,,,"Galaxy J6: 20201230_180506, 20201230_180535, 20201230_180553","Unidentified. Leaves herbivored, so not scanned. A small portion of root lost while sampling."
+VG25,S2(1),S2,0.74,3.03,1.16,1.46,26.4,23,,Cin,"Galaxy J6: 20201230_180629, 20201230_180650, 20201230_180709",Cinnamummum sp?
+VG25,S2(2),S2,1.53,9.69,2.83,3.22,28.2 + 14.4,21.6,,Cin,,A small portion of root lost while sampling. Branched stem.
+VG25,S3,S3,0.28,1.73,0.65,0.77,18.8,15 + 5.4,,ClaDen,"Galaxy J6: 20201230_180734, 20201230_180750, 20201230_180801",Curry leaf like. Branched root.
+VG25,S4(1),S4,0.71,2.36,0.87,0.83,17.8,8.8 + 5.5,,,"Galaxy J6: 20201230_180824, 20201230_180848, 20201230_180859",Unidentified. Branched root.
+VG25,S4(2),S4,0.36,1.63,0.55,3.59,11.2,26.8,,,,A small portion of root lost while sampling.
+VG25,S4(3),S4,0.24,0.6,0.21,0.32,8.6,11.6,,,,
+VG25,S4(4),S4,NA,5.19,3.9,4.34,37.4,20.5,,,,Leaf herbivored and dried.
+VG25,S5,S5,1.02,3.69,1.99,1.57,25.2 + 7.4,9.8,,,"Galaxy J6: 20201230_181114, 20201230_181128, 20201230_181152",Unidentified. Smallest of the small pieces in the bag is the broken stem.
+VG25,S6,S6,1.12,6.37,1.98,1.66,41,13.4,,,"Galaxy J6: 20201230_181216, 20201230_181234, 20201230_181247",Unidentified. A small portion of root lost while sampling.
+VG25,S7,S7,1.49,10.66,5.37,4.87,42,21.4,,,"Galaxy J6: 20201230_181313, 20201230_181327, 20201230_181343",Unidentified. Nearly 1/3rd of root was lost while sampling.
+VG28,S1,S1,0.07,1.07,0.82,0.43,13,12.4,,,"Galaxy J6: 20201231_114621, 20201231_114643, 20201231_114654",Unidentified. A very small portion of root lost while sampling.
+VG28,S2,S2,0.21,2.11,0.87,0.7,28.2,14.4,,,"Galaxy J6: 20201231_114944, 20201231_114958, 20201231_115018",Unidentified. A very small portion of root lost while sampling.
+VG28,S3,S3,0.64,3.97,1.63,1.56,24.2,16,,,"Galaxy J6: 20201231_115034, 20201231_115057, 20201231_115107",Unidentified.
+VG28,S4(1),S4,0.29,0.98,0.26,0.93,9.8,15.5,,,"Galaxy J6: 20201231_115132, 20201231_115202, 20201231_115217",Unidentified. A very small portion of root lost while sampling.
+VG28,S4(2),S4,0.38,1.21,0.72,0.44,18.2,6.2,,,,A very small portion of root lost while sampling.
+VG27,S1(1),S1,0.16,0.98,0.42,0.71,12.8,26,,,"Galaxy J6: 20201231_193627, 20201231_193658, 20201231_193720",Unidentified. Herbivored. Only one leaf scanned.
+VG27,S1(2),S1,0.2,2.15,1.08,0.93,15.5,11.2,,,,Herbivored. Only one leaf scanned.
+VG27,S2,S2,1.33,11.2,5.92,1.54,38.5 + 12.8,12,,,"Galaxy J6: 20201231_193745, 20201231_193806, 20201231_193823",Unidentified. Branched stem.
+VG27,S3(1),S3,0.66,3.94,2.2,1.31,25,15.5,,,"Galaxy J6: 20201231_193900, 20201231_193914, 20201231_193928",Unidentified.
+VG27,S3(2),S3,NA,2.51,0.81,0.4,18.8,8,,,, A small portion of root lost while sampling. Herbivored. Leaf not scaned.
+VG27,S4,S4,0.39,1.53,0.46,0.36,16.2,9.2,,Syz,"Galaxy J6: 20201231_194028, 20201231_194048, 20201231_194059",Unidentified. Syzygium sp?
+VG27,S5,S5,0.08,2.37,1.71,0.69,26.2 + 21,6.5,,Syz,"Galaxy J6: 20201231_194150, 20201231_194205, 20201231_194218",Unidentified. Syzygium sp? Nearly 2/3rd of the root lost while sampling. Branched stem.
+VG27,S6,S6,0.34,1.94,1.41,1.43,25.6 + 7.6 + 14.2 + 5.4,11.2,,Syz,"Galaxy J6: 20201231_194294, 20201231_194303, 20201231_194322",Unidentified. Syzygium sp? Nearly 1/2 of the root lost while sampling. Branched stem.
+VG27,S7(1),S7,0.51,1.19,0.34,0.07,16,1.8,,ClaDen,"Galaxy J6: 20201231_194351, 20201231_194415, 20201231_194424",Unidentified. Curry leaf like. Only a small portion of root got from sampling.
+VG27,S7(2),S7,0.25,0.8,0.49,0.32,23.5,16.8,,ClaDen,,
+VG27,S7(3),S7,NA,0.55,0.18,0.11,13.8,7.5,,ClaDen,,Herbivored. Leaves scanned.
+VG27,S7(4),S7,0.39,1.01,0.36,0.48,17.5,13.6,,ClaDen,,
+VG27,S7(5),S7,0.35,0.91,0.26,0.12,16.5,5,,ClaDen,,A small portion of root lost while sampling.
+VG27,S7(6),S7,0.37,1.56,0.93,0.39,24.5,8,,ClaDen,,A small portion of root lost while sampling.
+VG27,S7(7),S7,0.15,0.91,0.4,0.23,13.8 + 12.4,10.8,,ClaDen,,Branched stem.
+VG27,S7(8),S7,0.19,0.81,0.26,0.27,14.6,6,,ClaDen,,Nearly 1/2 of the root lost while sampling.
+VG31,S1(1),S1,0.21,0.99,0.31,0.27,12.2,9.8,,,"Galaxy J6: 20210102_201635, 20210102_201706, 20210102_201715",Unidentified.
+VG31,S1(2),S1,0.18,0.69,0.24,0.16,11,8.6,,,,
+VG31,S2(1),S2,0.99,3.2,0.79,0.85,17.2,13.2,,GarMor,"Galaxy J6: 20210102_201739, 20210102_201756, 20210102_201811",Unidentified. Garcinia sp? ~ 20 % root lost while sampling.
+VG31,S2(2),S2,1.99,9.16,4.89,1.82,34 + 9.2,19.2,,GarMor,,
+VG31,S3,S3,0.48,4.72,1.14,3.94,23.6 + 5.6 + 5.8,27.6,,,"Galaxy J6: 20210102_202557, 20210102_202625, 20210102_202640",Unidentified. ~ 20 % root lost while sampling. Branched stem. Herbivored. Only 1 leaf scanned.
+VG31,S4(1),S4,0.28,5.78,2.65,1.45,44.4 + 6.8 + 17.6 + 12.2 + 16.6,11.2,,,"Galaxy J6: 20210102_202152, 20210102_202230, 20210102_202245",Unidentified. ~ 70 % root lost while sampling. Branched stem
+VG31,S4(2),S4,0.24,2.83,1.4,1.64,37.8,25,,,,~ 10 % root lost while sampling. Branched stem
+VG31,S5,S5,0.45,3.54,2.05,2.93,33.8,13.2,,,"Galaxy J6: 20210102_202325, 20210102_202345, 20210102_202412",Unidentified. ~ 70 % root lost while sampling.
+VG30,S1(1),S1,0.43,2.49,0.85,0.26,11.4,8.2,,,"Galaxy J6: 20210103_201833, 20210103_202203, 20210103_202215",Unidentified.
+VG30,S1(2),S1,0.35,2.46,1.28,1.27,14,16.8,,,,
+VG30,S1(3),S1,0.32,1.42,0.64,0.07,12,2.5,,,,~ 80 % root lost while sampling.
+VG30,S2,S2,0.9,4.76,2.57,2.17,29.4,10.6,,,"Galaxy J6: 20210103_202805, 20210103_202820, 20210103_202844",Unidentified. ~ 40 % root lost while sampling.
+VG30,S3,S3,1.01,6.73,2.76,1.39,30.4,12.2,,,"Galaxy J6: 20210103_202938, 20210103_203009, 20210103_203032",Unidentified. ~ 50 % root lost while sampling.
+VG30,S4(1),S4,0.75,5.35,2.45,1.48,25.2 + 10.6,17,,,"Galaxy J6: 20210103_203119, 20210103_203230, 20210103_203255",Unidentified. ~ 10 % root lost while sampling. Branched stem.
+VG30,S4(2),S4,NA,6.57,3.69,4.02,,31.7,,,,~ 10 % root lost while sampling.
+VG30,S5(1),S5,NA,2.83,1.24,4.94,28 + 14.4 + 9.2,32,,,"Galaxy J6: 20210103_203516, 20210103_203528, 20210103_203540",Unidentified. Dried. Branched stem.
+VG30,S5(2),S5,NA,3.63,1.36,3.59,17.8 + 10 + 10.5 + 7.4 + 7.4 + 6.5,22.2,,,,Dried. ~ 30 % root lost while sampling. Branched stem.
+VG30,S6(1),S6,0.23,3.79,1.74,1.44,30.8,31.8,,,"Galaxy J6: 20210103_203638, 20210103_203653, 20210103_203705",Unidentified.  ~ 10 % root lost while sampling.
+VG30,S6(2),S6,0.22,6.72,2.81,3.24,27.6 + 6.6 + 18.4 + 8.2 + 7.2 + 7.5,28.5,,,,~ 10 % root lost while sampling.
+VG29,S1,S1,0.17,0.69,0.41,0.68,16.2,10.8,,,"Galaxy J6: 20210104_135003, 20210104_135022, 20210104_135033",Unidentified. ~ 10 % root lost while sampling.
+VG29,S2(1),S2,0.33,1.11,0.27,0.3,9.8,15.4,,,"Galaxy J6: 20210104_135101, 20210104_135119, 20210104_135220",Unidentified.
+VG29,S2(2),S2,0.35,0.81,0.28,0.64,10.2,12.6,,,,
+VG29,S3(1),S3,1.29,5.6,2.12,1.02,18.5,15,,PsyNig,"Galaxy J6: 20210104_135250, 20210104_135300, 20210104_135314",Psychotria sp?
+VG29,S3(2),S3,0.33,0.89,0.22,0.45,8,11.6,,PsyNig,, ~ 40 % root lost while sampling.
+VG29,S3(3),S3,NA,4.64,1.69,1.3,12.8,10.8,,PsyNig,, ~ 50 % root lost while sampling. Herbivored. Leaves not scanned.
+VG29,S3(4),S3,NA,4.67,1.63,0.85,17.5,17.5 + 12.2,,PsyNig,,Branched root. Herbivored. Leaves not scanned.
+VG29,S3(5),S3,0.35,3,1.18,0.63,14.6,14.4,,PsyNig,, Herbivored. Only one leaf scanned.
+VG29,S4(1),S4,0.39,2.31,1.12,0.86,23.6,14.4,,SymRac,"Galaxy J6: 20210104_135339, 20210104_135357, 20210104_135422",Simplocos sp?  ~ 10 % root lost while sampling.
+VG29,S4(2),S4,0.22,0.94,0.5,0.6,14.4,19.6,,SymRac,,
+VG29,S4(3),S4,0.51,4.2,2.54,1.33,23.8 + 2.6,7,,SymRac,,~ 80 % root lost while sampling. Branched stem.
+VG29,S4(4),S4,0.27,1.24,0.48,0.33,14.8,5.4,,SymRac,, ~ 50 % root lost while sampling.
+VG29,S4(5),S4,0.18,0.92,0.37,0.44,14,13.2,,SymRac,,
+VG29,S5,S5,0.66,3.81,1.66,1.69,25.2,26.4,,Cin,"Galaxy J6: 20210104_135456, 20210104_135514, 20210104_135525",Cinnamumum sp?  Herbivored. Only one leaf scanned.
+VG29,S6,S6,0.71,3.9,1.82,1.53,23.8,16.2,,,"Galaxy J6: 20210104_135548, 20210104_135608, 20210104_135624",Unidentified. ~ 10 % root lost while sampling.
+VG29,S7,S7,0.35,6.03,2.17,0.97,22.2,13.2,,,"Galaxy J6: 20210104_135647, 20210104_135755, 20210104_135830",Unidentified. Herbivored. Only 1 leaf scanned.
+VG29,S8(1),S8,0.22,4.24,1.72,0.55,30 + 10.8 + 4 + 17.4 + 5.8,5.2,,Syz,"Galaxy J6: 20210104_135904, 20210104_135956, 20210104_140006",Syzygium sp? ~ 70 % root lost while sampling.
+VG29,S8(2),S8,0.06,0.63,0.18,0.14,16,9.6,,Syz,,
+VG29,S8(3),S8,0.17,7.32,4.34,3.29,44.5 + 9.8 + 18.8 + 7.6 + 18.2 + 22 + 11.5,24,,Syz,,~ 20 % root lost while sampling.
+VG29,S8(4),S8,0.3,6.18,3.48,1.51,41.2 +  29.4 ,11.6,,Syz,,~ 60 % root lost while sampling.
+VG29,S8(5),S8,0.15,4.76,2.48,1.17,36 + 13.8,22,,Syz,,
+VG29,S8(6),S8,0.45,9.35,5.6,2.04,38.2 + 9.2 + 11 + 30.2 + 24.5,28.4,,Syz,,
+VG29,S9,S9,NA,3.56,1.79,2.94,19.4 + 12.6 + 8.2 + 4.8 + 13,25.8,,,"Galaxy J6: 20210104_140729, 20210104_140739, 20210104_140750",Unidentified. Branched stem. Dried. Leaves not scanned.
+VG29,S10,S1,0.31,1.3,0.56,0.29,18.4 + 6,7.2,,Syz,"Galaxy J6: 20210104_140833, 20210104_140857, 20210104_140917",Syzygium sp? ~ 50 % root lost while sampling.
+VG29,S11,S1,0.36,0.93,0.52,0.39,15.8 + 3.6 + 3.8,8,,,"Galaxy J6: 20210104_140945, 20210104_141010, 20210104_141019",Unidentified. ~ 50 % root lost while sampling. Branched stem.
+VG18,S1(1),S1,NA,NA,NA,NA,18.2+4.8+5.8,13.3,,NotBed,"Honor 9 Lite: 20210105_154844, 20210105_155521, 20210105_155542",Unidentified. Dried. Leaves not scanned. 
+VG18,S1 (2),S1,NA,NA,NA,NA,20.3,6.4,,NotBed,,Unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling
+VG18,S1(3),S1,NA,NA,NA,NA,16.8+5.2+5.5+3.5,15.3,,NotBed,,"Unidentified. Dried. Leaves diseased, not scanned. "
+VG18,S1 (4),S1,NA,NA,NA,NA,15.1,7.2,,NotBed,,Unidentified. Dried. Leaves not scanned. portion of the root lost while sampling.
+VG18,S1 (5),S1,NA,NA,NA,NA,19.2,13.2,,NotBed,,unidentified. Dried. Leaves not scanned. 
+VG18,S1 (6),S1,NA,NA,NA,NA,13.6,6.4,,NotBed,,unidentified. Dried. Leaves not scanned
+VG18,S1 (7),S1,NA,NA,NA,NA,18.3+(14+6),9.8,,NotBed,,unidentified. Dried. Leaves not scanned. Portion of root lost while sampling
+VG18,S1 (8),S1,NA,NA,NA,NA,15.3,10.2,,NotBed,,unidentified. Dried. Leaves not scanned. A portion of the root was lost while sampling
+VG18,S1(9),S1,NA,NA,NA,NA,19.4+4.5+3.4,10.2,,NotBed,,unidentified. Dried. Leaves not scanned
+VG18,S1 (10),S1,NA,NA,NA,NA,27.3,9.3,,NotBed,,unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling
+VG18,S1 (11),S1,NA,NA,NA,NA,21.2+29.1,17.6+18.4,,NotBed,,unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling. Branched stem and roots. 
+VG18,S1 (12),S1,NA,NA,NA,NA,28.1+5.6+5.3,15.2,,NotBed,,unidentified. Dried. Leaves not scanned. 
+VG18,S2,S2,NA,NA,NA,NA,24.2,8.8,,,Honor 9 Lite: 20210105_191917,unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling
+VG18,S3,S3,NA,NA,NA,NA,32.6,8.3,,,Honor 9 Lite: 20210105_192736,unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling
+VG18,S4,S4,NA,NA,NA,NA,33.9+11.2,22.5,,,Honor 9 Lite: 20210105_192756,unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling
+VG18,S5,S5,NA,NA,NA,NA,21.2,5.1,,,Honor 9 Lite: 20210105_193940,unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling
+VG19,S1,S1,NA,NA,NA,NA,25,11.2,,,,"Psychotria nigra. Leaves missing, not scanned. "
+VG19,S2,S2,NA,NA,NA,NA,35.2,9.8,,,Honor 9 Lite: 20210105_195454,unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling
+VG19,S3,S3,NA,NA,NA,NA,54.5,25.2,,,Honor 9 Lite: 20210105_200032,unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling
+VG19,S4,S4,NA,NA,NA,NA,28.3,5.8,,,Honor 9 Lite: 20210105_201127,unidentified. Dried. Leaves not scanned. 
+VG19,S5,S5,NA,NA,NA,NA,36.2,18.3,,,Honor 9 Lite: 20210105_201128,unidentified. Dried. Leaves not scanned. Portion of the root lost while sampling
+VG19,S6,S6,NA,NA,NA,NA,37.4,13.7,,,Honor 9 Lite: 20210105_201849,unidentified. Dried. Leaves not scanned. 
+VG22,S1,S1,NA,NA,NA,NA,10.8,8.4,,,Galaxy J6: 20210109_194843,unidentified. Dried. Leaves not scanned. 
+VG22,S2,S2,NA,NA,NA,NA,13,13.8,,,Galaxy J6: 20210109_194852,unidentified. Dried. Leaves not scanned. 
+VG22,S3,S3,NA,NA,NA,NA,12.4,16.5,,,Galaxy J6: 20210109_194901,unidentified. Dried. Leaves not scanned. 
+VG22,S4,S4,NA,NA,NA,NA,10.5,9.8,,,Galaxy J6: 20210109_194913,unidentified. Dried. Leaves not scanned. 
+VG22,S5,S5,NA,NA,NA,NA,10.2,8.5,,,Galaxy J6: 20210109_194928,unidentified. Dried. Leaves not scanned. 
+VG22,S6,S6,NA,NA,NA,NA,11.2,8,,,Galaxy J6: 20210109_194938,unidentified. Dried. Leaves not scanned. 
+VG22,S7,S7,NA,NA,NA,NA,10.8,8,,,Galaxy J6: 20210109_195007,unidentified. Dried. Leaves not scanned. 
+VG22,S8,S8,NA,NA,NA,NA,8,4.8,,,Galaxy J6: 20210109_195017,unidentified. Dried. Leaves not scanned. 
+VG22,S9,S9,NA,NA,NA,NA,9.2,11.8,,,Galaxy J6: 20210109_195028,unidentified. Dried. Leaves not scanned. 
+VG22,S10,S1,NA,NA,NA,NA,11.8,4.5,,,Galaxy J6: 20210109_195035,unidentified. Dried. Leaves not scanned.  ~ 60 % root lost while sampling.
+VG22,S11,S1,NA,NA,NA,NA,20.6,16.8,,,Galaxy J6: 20210109_195046,unidentified. Dried. Leaves not scanned. 
+VG22,S12,S1,NA,NA,NA,NA,29.6,21.4,,,Galaxy J6: 20210109_195054,unidentified. Dried. Leaves not scanned. 
+VG22,S13,S1,NA,NA,NA,NA,11.5,11.8,,,Galaxy J6: 20210109_195123,unidentified. Dried. Leaves not scanned. 
+VG22,S14,S1,NA,NA,NA,NA,9,10.6,,,Galaxy J6: 20210109_195136,unidentified. Dried. Leaves not scanned. 
+VG22,S15,S1,NA,NA,NA,NA,16,11.6,,,Galaxy J6: 20210109_195202,unidentified. Dried. Leaves not scanned. 
+VG22,S16,S1,NA,NA,NA,NA,28.4,25,,,Galaxy J6: 20210109_195217,unidentified. Dried. Leaves not scanned. 
+VG22,S17,S1,NA,NA,NA,NA,14.4,8.8,,,Galaxy J6: 20210109_195230,unidentified. Dried. Leaves not scanned. 
+VG22,S18,S1,NA,NA,NA,NA,28.8,15.2,,,Galaxy J6: 20210109_195242,unidentified. Dried. Leaves not scanned. 
+VG34,S1(1),S1,0.94,3.24,1.06,0.49,23.4,7,,,"Galaxy J6: 20210113_194502, 20210113_194519, 20210113_194550.",Unidentified. ~60% leaf lost while sampling.
+VG34,S1(2),S1,0.17,1.7,0.97,0.89,23.8,18.4,,,,Herbivored. Only 1 leaf scanned.
+VG34,S1(3),S1,NA,1.67,0.74,0.27,22.6,9.6,,,,Severly herbivored.
+VG34,S1(4),S1,0.51,1.56,1.13,0.45,27.8,6.8,,,,~60% leaf lost while sampling.
+VG34,S1(5),S1,0.39,2.52,1.1,1.32,22.2,5.2,,,,~80% leaf lost while sampling.
+VG35,S1,S1,0.6,3.44,1.85,9.1,23.8,30,,,"Galaxy J6: 20210114_102032, 20210114_102059, 20210114_102117",~60% leaf lost while sampling.
+VG35,S2(1),S2,0.73,4.08,1.48,0.89,36.8,22.6,,,"Galaxy J6: 20210114_102308, 20210114_102328, 20210114_102344",
+VG35,S2(2),S2,0.38,2.9,1.32,1.07,31.4,16.2,,,,Herbivored. Only 1 leaf scanned.
+VG35,S3(1),S3,NA,2.85,1.97,2.02,29.4,18.2,,,Galaxy J6: 20210114_102414,Leaves dried.
+VG35,S3(2),S3,0.42,4.16,3.47,3.46,37.6,21.6,,,,
+VG33,S1(1),S1,1.13,8.35,3.42,1.7,23,17.8,,,"Galaxy J6: 20210114_121923, 20210114_121943, 20210114_122001",Unidentified.
+VG33,S1(2),S1,0.13,0.67,0.35,0.06,11.5,6.5,,,,
+VG33,S1(3),S1,NA,1.54,0.99,0.16,16.4,10.4,,,,Severly herbivored.
+VG33,S1(4),S1,0.24,2.46,0.92,0.41,15.6,12,,,,
+VG33,S2,S2,NA,2.14,1.83,3.7,25.6,27.6,,,Galaxy J6: 20210114_185355,Unidentified. Dry. Leaves not analyzed.
+VG33,S3,S3,NA,0.9,0.76,0.64,16 + 7.2,11.6,,,"Galaxy J6: 20210114_122417, 20210114_122710, 20210114_122728",Unidentified. Stem broke during data collection. Severly herbivored.
+VG33,S4,S4,0.06,1.32,0.74,0.39,22.4,4.8,,,"Galaxy J6: 20210114_122744, 20210114_122814, 20210114_122826",Unidentified. ~80% leaf lost while sampling.
+VG33,S5,S5,0.18,0.91,0.56,0.57,18.2,10.6,,,"Galaxy J6: 20210114_122859, 20210114_122915, 20210114_122928",Unidentified.
+VG33,S6,S6,0.12,3.14,2.94,2.05,36.8,18.4,,,"Galaxy J6: 20210114_123046, 20210114_123112, 20210114_123123",Unidentified. Serrated leaves. Mostly herbivored. Only 1 leaf scanned.
+VG33,S7,S7,0.44,2.02,0.75,0.99,18.8,24.2,,,"Galaxy J6: 20210114_123154, 20210114_123207, 20210114_123218",Unidentified.
+VG33,S8,S8,NA,2.45,1.59,0.72,28,17.4,,,"Galaxy J6: 20210114_123313, 20210114_123327, 20210114_123341",Unidentified. Severly herbivored.
+VG33,S9,S9,0.15,0.56,0.51,0.95,21.8 + 11.4,20.2,,,"Galaxy J6: 20210114_123451, 20210114_123429, 20210114_123412","Unidentified. Branched stem, broken during data collection."
+VG32,S1(1),S1,0.57,3.84,1.52,0.41,20.5,15,,,"Galaxy J6: 220210114_201409, 20210114_201421, 20210114_201436",Psychtria sp.
+VG32,S1(2),S1,0.46,3.05,2.02,0.32,25.8,12.5,,,,
+VG32,S2(1),S2,0.07,1.33,0.9,1.56,20.2 + 15.6,22.4,,Syz,"Galaxy J6: 220210114_201459, 20210114_201532, 20210114_201541",Syzygium sp. Stem broke while processing.
+VG32,S2(2),S2,0.08,3.77,2.92,1.52,15.2 + 29.2 + 20.8,13,,Syz,,Branched stem.
+VG32,S3(1),S3,0.19,0.71,0.21,0.2,9.4,7.2,,,"Galaxy J6: 220210114_201708, 20210114_201700, 20210114_201641",Unidentified.
+VG32,S3(2),S3,0.39,1.64,1.06,0.52,19.2,11.6,,,,
+VG32,S4(1),S4,0.15,1.05,0.73,1.15,14.6,15.5,,,"Galaxy J6: 220210114_201803, 20210114_201825, 20210114_201843",Unidentified. Serrated leaves.
+VG32,S4(2),S4,0.13,0.79,0.43,0.6,15.2,11.2,,,,
+VG32,S4(3),S4,1.02,4.55,2.64,1.5,2.64,1.5,,,,
+VG32,S5(1),S5,0.46,2.18,1.11,0.45,32.2,13,,GarMor,"Galaxy J6: 220210114_201921, 20210114_201941, 20210114_201958",Unidentified. Garcinia sp?
+VG32,S5(2),S5,0.51,3.66,1.51,0.98,31,19.8,,GarMor,,
+VG32,S5(3),S5,0.16,2.01,1.12,0.4,33.6,9.6,,GarMor,,
+VG32,S6,S6,NA,2.23,1.87,1.68,23.4,23.4,,,"Galaxy J6: 220210114_202032, 20210114_202101, 20210114_202128",Unidentified. Dried.
+VG32,S7,S7,0.7,3.91,2.77,0.74,31.8,3,,,"Galaxy J6: 220210114_202204, 20210114_202219, 20210114_202234",Unidentified. ~90% leaf lost while sampling.
+VG32,S8,S8,0.9,5.82,2.07,2.24,27.4,15.8,,,"Galaxy J6: 220210114_202317, 20210114_202334, 20210114_202355",Unidentified. ~40% leaf lost while sampling.
+VG32,S9,S9,NA,1.71,1.61,1.39,27.2,17.8,,,"Galaxy J6: 220210114_202423, 20210114_202510, 20210114_202518",Unidentified. Dried. Only 2 leaves in shoot.
+VG32,S10,S1,0.19,1.33,0.5,0.23,20.8,11.2,,,"Galaxy J6: 220210114_202708, 20210114_202726, 20210114_202738",Unidentified.
+VG36,S1(1),S1,1.19,7.11,2.08,4.06,21.2,23.6,,,"Galaxy J6: 20210116_165047, 20210116_165119, 20210116_165134",Unidentified.
+VG36,S1(2),S1,0.19,1.19,0.56,0.42,20.6,15,,,,Sap white.
+VG36,S2,S2,NA,2.3,0.9,2.34,16.6,20.6,,,"Galaxy J6: 20210116_165212, 20210116_171939, 20210116_171948",Unidentified. ~20 % root lost while sampling.
+VG37,S1,S1,NA,0.78,0.3,0.17,16.8,7,,,"Galaxy J6: 20210116_165212, 20210116_171939, 20210116_171948","Unidentified. Leaves herbivored, traits not measured."
+VG37,S2(1),S2,0.38,2.05,1.1,0.47,18.8,13.6,,,"Galaxy J6: 20210116_172945, 20210116_173001, 20210116_173018",Unidentified.
+VG37,S2(2),S2,0.36,1.69,1.13,0.73,19.4,12.8,,,,"Leaves herbivored, traits not measured."
+VG37,S2(3),S2,NA,2.32,1.65,0.86,18,12,,,,~40 % root lost while sampling.
+VG37,S3(1),S3,0.47,2.27,0.91,0.58,20.4,8.4,,GarMor,"Galaxy J6: 20210116_173201, 20210116_173231, 20210116_173243",Unidentified.Garcinia sp?
+VG37,S3(2),S3,0.14,1.33,0.9,0.42,18,12.2,,GarMor,,Diseased. Only 1 leaf scanned.
+VG37,S3(3),S3,1.07,4.25,1.26,0.68,26.4,12.2,,GarMor,,~20 % root lost while sampling.
+VG38,S1,S1,1.65,7.13,2.93,2.58,26.6,27.4,,,"Galaxy J6: 20210116_183735, 20210116_183804, 20210116_183817",Unidentified.
+VG38,S2,S2,1.52,8.58,3.09,0.82,23.2,16,,,"Galaxy J6: 20210116_183831, 20210116_183844, 20210116_183857",Unidentified.
+VG38,S3,S3,0.21,0.99,0.35,0.29,15,7.4,,,"Galaxy J6: 20210116_184018, 20210116_184353, 20210116_184414",Unidentified.
+VG39,S1,S1,0.56,2.18,0.87,0.67,15.6,10.2,,,,Unidentified.
+VG39,S2(1),S2,0.75,5.28,2.18,6.39,32.4,22,,,,Unidentified.
+VG39,S2(2),S2,0.27,1.79,1.19,0.6,28.2,8,,,,Herbivored. Only 01 leaf scanned. 
+VG39,S4,S4,0.8,2.36,1.12,1.63,26.2,16.6,,,,
+VG39,S3(1),S3,0.86,2.99,1.06,1.32,18.8,15.2,,,,"Unidentified. Only 01 complete leaf, It was scanned."
+VG39,S3(2),S3,0.15,1,0.56,0.6,16.4,11.4,,,,All incomplete leaves+H739. Only 1 leaf scanned.
+VG39,S3(3),S3,0.35,2.08,1.19,0.9,22,13.2,,,,Only 1 leaf scanned.
+VG39,S3(4),S3,0.17,0.79,0.32,0.22,13.2,5.2,,,,Only 1 leaf scanned.
+VG39,S3(5),S3,0.13,0.92,0.56,0.66,18.2,15.4,,,,Only 1 leaf scanned. ~ 40 % root lost while sampling.
+VG39,S3(6),S3,0.2,0.97,0.61,0.39,19.8,5.6,,,,Only 1 leaf scanned. ~ 40 % root lost while sampling.
+VG39,S3(7),S3,0.08,0.74,0.38,0.36,16.2,10.4,,,,Only 1 leaf scanned.
+VG39,S3(8),S3,NA,1.97,1.28,2.2,21.8,26.6,,,,Dry. Leaves not scaaned.
+VG39,S3(9),S3,NA,0.91,0.38,0.51,13.8,11.8,,,,Dry. Leaves not scaaned.
+VG39,S3(10),S3,NA,0.84,0.49,0.83,18,11.8,,,,Herbivored. Leaves not scaaned.
+VG39,S3(11),S3,NA,2.19,1.08,1.67,20.8,15.4,,,,Dry. Leaves not scaaned.
+VG39,S3(12),S3,0.19,0.96,0.5,0.85,14.4,15.4,,,,
+VG40,S1(1),S1,NA,10.64,4.38,3.67,29,16.5 + 10.8 + 12.4,,PsyMac,"Galaxy J6: 20210119_183822, 20210119_183843, 20210119_183904","Psychotria sp? Herbivored. Leaves not scanned. Roots branched, broke while sampling."
+VG40,S1(2),S1,NA,13.5,8.94,3.58,41,20 + 7,,,,Herbivored. Leaves not scanned. Branched roots.
+VG40,S1(3),S1,NA,15.88,6.81,4.45,33.6,18.2,,,,Dried. Herbivored. Leaves not scanned.
+VG40,S2,S2,1.2,5.94,0.46,4.87,,,,Cin,"Galaxy J6: 20210119_183939, 20210119_183947, 20210119_184004",Cinnammum sp?
+VG41,S1,S1,0.74,3.07,1.17,0.31,5.4,15.2,,PsyNig,"Galaxy J6: 20210119_200921, 20210119_200935, 20210119_200947",Pyschotria sp?
+VG41,S2,S2,0.33,1.49,0.56,0.35,19,9.2,,,"Galaxy J6: 20210119_201013, 20210119_201024, 20210119_201034",Unidentified. White sap.
+VG41,S3,S3,0.13,0.52,0.31,0.34,10.8,8.4,,DimLon,Galaxy J6: 20210119_201104,Democarpus sp? Herbivored. Only 1 leaf scanned.
+VG41,S4(1),S4,0.09,0.31,0.12,0.22,8.4,10.8,,ClaDen,"Galaxy J6: 20210119_201150, 20210119_201207, 20210119_201218",Unidentified. Curry leaf like.
+VG41,S4(2),S4,NA,0.62,0.4,35,15.6,14.6,,,,
+VG41,S4(3),S4,,,,,,,,,,
+VG41,S5,S5,0.46,2.69,1.39,0.57,24.1,6.2,,,"Galaxy J6: 20210119_201236, 20210119_201247, 20210119_201306",Unidentified. Only one leaf scanned.
+VG41,S6,S6,0.27,1.39,0.45,0.38,19.2,8.6,,Syz,"Galaxy J6: 20210119_201435, 20210119_201445, 20210119_201457",Syzygium sp?
+VG41,S7(1),S7,NA,1.75,0.84,0.84,18.3,13.2,,SymRac,"Galaxy J6: 20210119_210529, 20210119_201542, 20210119_201557",Simplocos sp?
+VG41,S7(2),S7,0.25,1.32,0.47,0.46,12.7,7.2,,,,
+VG41,S7(3),S7,0.16,0.96,0.47,0.36,15.2,11.3,,,,
+VG42,S1,S1,0.6,3.05,1.5,2.37,36.8,26.3,,,"Honor 9 Lite: 20210120_131650, 20210120_131718, 20210120_131728",Unidentified.
+VG42,S2,S2,0.23,0.99,0.59,0.8,21.4,15.3,,,"Honor 9 Lite: 20210120_132528, 20210120_132611, 20210120_132617",Unidentified. Only one leaf scanned.
+VG42,S3,S3,0.49,3.37,2.07,0.55,27.4,10,,,"Honor 9 Lite: 20210120_133414, 20210120_133435, 20210120_133441",Unidentified.
+VG42,S4,S4,0.38,2.16,0.73,1.13,14.2,18.3,,,"Honor 9 Lite:20210120_134852, 20210120_134948, 20210120_135007",Unidentified.
+VG42,S5,S5,0.19,0.49,0.17,0.25,9.4,10,,,"Honor 9 Lite: 20210120_135809, 20210120_135822, 20210120_135854",Unidentified.
+VG42,S6 (1),S6,0.16,1.17,0.63,0.1,11,5.2,,PsyNig,,Psychotria.
+VG42,S6 (2),S6,0.22,1.42,0.92,0.16,16.3,10.3,,PsyNig,,Psychotria.
+VG42,S6 (3),S6,0.09,0.81,0.58,0.03,12.8,6.5,,PsyNig,,Psychotria.
+VG42,S6 (4),S6,0.12,0.71,0.39,0.06,11.3,4.6,,PsyNig,,Psychotria.
+VG42,S6 (5),S6,0.13,0.81,0.59,0.11,13.6,8.3,,PsyNig,,Psychotria.
+VG42,S6 (6),S6,0.14,0.73,0.35,0.12,9.6,7.5,,PsyNig,,Psychotria.
+VG43,S1,S1,NA,4.94,2.1,0.9,25.4,14.6,,PsyNig,Galaxy J6: 20210121_195506,Psychotria sp? Dry. Leave traits can't be measured.
+VG43,S2,S2,NA,0.56,0.38,0.71,17,15,,,"Galaxy J6: 20210121_195533, 20210119_195553, 20210119_195608",Unidentified. Serrated leaves. Leave traits can't be measured.
+VG43,S3(1),S3,0.32,1.14,0.32,0.47,12,10,,ClaDen,"Galaxy J6: 20210121_195724, 20210119_195732, 20210119_195742",Unidentified. Curry leaf like.
+VG43,S3(2),S3,0.16,1.09,0.47,0.35,16.8,12.4,,,,
+VG43,S3(3),S3,NA,0.52,0.12,0.16,11.2,8.4,,,,Leave traits can't be measured.
+DG12,S1,S1,0.18,2.24,1.23,0.23,30.4,1.2,,Cin,,Cinnamomum sp. ~ 90 % root lost while sampling.
+DG12,S2,S2,0.15,0.61(?),.16(?),NA,11.8(?),NA,,,"Galaxy J6: 20210122_145842, 20210122_145856, 20210119_150023",Unidentified. Root completely lost. Some portion of stem lost.
+DG12,S3,S3,0.32,0.93,0.28,0.26,11.4,11.4,,,"Galaxy J6: 20210122_150115, 20210122_150124, 20210119_150132",
+DG12,S4,S4,0.08,0.4,0.47,0.65,30.2,15.6,,,"Galaxy J6: 20210122_150737, 20210122_150750, 20210119_150811",
+DG12,S5(1),S5,0.08,0.38,0.19,0.14,11.2,10.8,,SymRac,"Galaxy J6: 20210122_150907, 20210122_150933, 20210119_150951",Simplocos sp?
+DG12,S5(2),S5,0.12,1.8,0.12,1.09,23.4,9.2,,,,
+DG12,S5(3),S5,0.02,0.2,0.1,0.12,9.4,10,,,,
+DG12,S5(4),S5,0.09,0.32,0.17,0.12,12.4,6,,,,
+DG12,S6(1),S6,0.82,3.66,1.42,0.5,16.4,9.8,,Psy,"Galaxy J6: 20210122_151035, 20210122_151052, 20210119_151113",Psychotria sp?
+DG12,S6(2),S6,0.51,2.11,1.24,0.42,19.4,7.4 + 9,,Psy,,Root branched.
+DG12,S6(3),S6,0.34,3.05,2.05,0.24,24.6,7.2,,Psy,,
+DG12,S6(4),S6,0.32,1.07,0.54,0.25,12,9,,Psy,,Root branched.
+DG12,S6(5),S6,0.11,0.65,0.43,0.12,12.2,4.6,,Psy,,~ 60 % root lost while sampling.
+DG11,S1,S1,1.47,12.04,5.71,5.27,40.4,21.2,,SymRac,"Galaxy J6: 20210123_192403, 20210123_192437, 20210123_192450",Simplocos sp? ~ 30 % root lost while sampling.
+DG11,S2(1),S2,0.66,3.06,1.15,0.47,15.4,6.8 + 4.2,,Psy,"Galaxy J6: 20210123_192516, 20210123_192523, 20210123_192533",Psychotria sp? Branched root (~60% of one branch was lost while sampling).  
+DG11,S2(2),S2,1.04,7.81,3.64,1.64,30.4,13.6,,,,
+DG11,S2(3),S2,NA,6.52,2.92,1.48,24.8,15.2,,,,Herbivored. Leaf traits not measured.
+DG11,S2(4),S2,NA,7.44,3.74,2.24,29,13.6,,,,Herbivored. Leaf traits not measured. ~ 30 % root lost while sampling.
+DG11,S2(5),S2,0.43,4.84,2.87,0.83,24.2,9.2,,,,~ 20 % root lost while sampling. Mostly herbivored. Only one leaf scanned.
+DG11,S2(6),S2,1.68,7.38,2.91,1.06,23,15.2,,,,
+DG11,S2(7),S2,1.97,5.84,2.42,1.27,19.2,13.2,,,,
+DG11,S2(8),S2,NA,3.6,1.13,0.33,13.2,8.8,,,,Herbivored. Leaf traits not measured.
+DG11,S2(9),S2,0.94,5.31,1.56,0.71,15.2,10.2,,,,
+DG11,S2(10),S2,0.76,2.38,1.19,0.48,14.6,10.4,,,,
+DG11,S2(11),S2,1.14,4.84,1.75,0.32,15.2,3.2,,,,~ 80 % root lost while sampling.
+DG11,S2(12),S2,0.88,4.24,1.82,0.32,17.6,3.2,,,,~ 80 % root lost while sampling.
+DG11,S2(13),S2,NA,4.7,2.56,1,23.8,7.6,,,,~ 60 % root lost while sampling. Herbivored. Leaf traits not measured.
+DG13,S1(1),S1,0.03,0.35,0.14,0.12,12,12.2,,Syz,"Galaxy J6: 20210124_135458, 20210124_135512, 20210124_135527",Syzygium sp?
+DG13,S1(2),S1,0.05,0.43,0.13,0.05,14.6,2.6,,Syz,,
+DG13,S1(3),S1,0.08,0.79,0.27,0.2,15.8,12,,Syz,,
+DG13,S1(4),S1,0.02,0.44,0.3,0.37,13.4,4.8,,Syz,,~ 80 % root lost while sampling.
+DG13,S1(5),S1,0.05,0.3,0.07,0.1,8.8,18.6,,Syz,,
+DG13,S1(6),S1,0.09,0.74,0.21,0.19,13,7.4,,Syz,,~ 30 % root lost while sampling.
+DG13,S1(7),S1,0.06,0.34,0.15,0.07,15.2,6.6,,Syz,,~ 30 % root lost while sampling.
+DG13,S1(8),S1,NA,4.02,2.22,3.42,18.8 + 18 + 13.2 +11.4 + 17.6 + 7.6 + 6.2,28.8,,Syz,,Dried. Leaves not scanned. ~ 10 % root lost while sampling.
+DG13,S9,S9,0.09,0.61,0.31,0.52,14.4,11.6,,SymRac,"Galaxy J6: 20210124_140804, 20210124_140814, 20210124_140831", Simplocos sp?
+DG13,S2(1),S2,0.16,0.58,0.23,0.13,7.6,10.4,,,,Unidentified.
+DG13,S2(2),S2,0.25,1.92,1.66,1.35,19.4,17.6 + 6.6,,,,Only 2 leaves. The were scanned. Branched roots.
+DG13,S3,S3,0.97,8.43,3.76,3.51,25 + 23.2 + 7.8,10.6,,,"Galaxy J6: 20210124_140908, 20210124_140938, 20210124_140949",Unidentified. ~ 80 % root lost while sampling.
+DG13,S4,S4,0.43,1.8,0.8,0.37,22.8,4,,,"Galaxy J6: 20210124_141013, 20210124_141021, 20210124_141030",Unidentified.  ~ 80 % root lost while sampling.
+DG13,S5,S5,0.56,2.09,0.88,0.33,16.4 + 3.8,13.6,,,"Galaxy J6: 20210124_141058, 20210124_141114, 20210124_141122",Unidentified. Whorled leaves.
+DG13,S6(1),S6,0.67,2.86,1.54,0.74,21,5.2 + 3.2,,,"Galaxy J6: 20210124_141141, 20210124_141154, 20210124_141209",Unidentified. Branched roots
+DG13,S6(2),S6,0.01,1,0.72,0.16,15.2,2,,,,Mostly herbivored; only 1 young leaf scanned.  ~ 80 % root lost while sampling.
+DG13,S6(3),S6,NA,0.23,0.11,0.1,12,6.6,,,,Mostly herbivored; leaves not scanned.
+DG13,S7,S7,2.16,9.8,2.77,1.45,25.6,10.4,,,"Galaxy J6: 20210124_141234, 20210124_141244, 20210124_141259",Unidentified. ~ 60 % root lost while sampling.
+DG13,S8,S8,0.38,2.35,1.81,0.65,27.4,9.6,,Cin,,Cinnamomum sp. Mostly herbivored; only 1 young leaf scanned. ~ 10 % root lost while sampling.
+DG14,S1,S1,0.24,0.98(?),0.46(?),NA,22.8(?),NA,,,"Galaxy J6: 20210124_203509, 20210124_203520, 20210124_203533",Unidentified. Root lost. An unknown portion of stem lost while sampling. Herbivored; only 1 leaf scanned.
+DG14,S2,S2,0.06,0.66,0.51,0.95,23.4,34.2,,,"Galaxy J6: 20210124_203614, 20210124_203632, 20210124_203641",Unidentified. Herbivored; only 1 leaf scanned.
+DG14,S3(1),S3,NA,0.15,0.03,0.22,6.8,17.8,,Syz,"Galaxy J6: 20210124_203710, 20210124_203732, 20210124_203745",Syzygium sp? Dry. Leaf traits not measured.
+DG14,S3(2),S3,NA,2.96,2.33,1.16,30 + 23.8,18,,Syz,,Dry. Leaf traits not measured. Branched stem.
+DG14,S3(3),S3,NA,0.94,0.65,0.27,24.5 + 6.4,7.2,,Syz,,Dry. Leaf traits not measured. ~ 40 % root lost while sampling. Branched stem.
+DG14,S3(4),S3,NA,1.22,0.76,0.44,29.6,11.6,,Syz,,Dry. Leaf traits not measured. ~ 30 % root lost while sampling.
+DG14,S3(5),S3,NA,4.4,2.38,3.61,20.8 + 15.4 + 12.6,22.4,,Syz,,Dry. Leaf traits not measured. ~ 40 % root lost while sampling. Branched stem.
+DG14,S3(6),S3,NA,0.36,0.17,0.15,15,10.6,,Syz,,Dry. Leaf traits not measured.
+DG14,S3(7),S3,NA,0.79,0.54,0.5,18.8,9.6 + 10,,Syz,,Dry. Leaf traits not measured. Branched root (~40 % of one branch lost while sampling).
+DG14,S4(1),S4,0.38,3.93,1.53,1.32,31.4,10.4,,Cin,"Galaxy J6: 20210124_203803, 20210124_203814, 20210124_203834",Cinnamomum sp? ~ 60 % root lost while sampling.
+DG14,S4(2),S4,0.18,0.8,0.41,0.46,19.8,14,,Cin,,~ 20 % root lost while sampling.
+DG14,S4(3),S4,NA,1.32,0.99,0.94,23,19,,Cin,,Dry. Leaf traits not measured.
+DG14,S5(1),S5,0.61,3.34,1.32,0.56,18.8,17.5 + 4.8,,Psy,"Galaxy J6: 20210124_203855, 20210124_203905, 20210124_203914",Psychotria sp? Branched stem.
+DG14,S5(2),S5,0.62,4.67,1.67,0.39,19.4,9,,Psy,,
+DG14,S5(3),S5,NA,0.62,0.31,0.15,10.8,4.6,,Psy,,Dry. Leaf traits not measured. ~ 60 % root lost while sampling.
+DG14,S5(4),S5,NA,0.85,0.34,0.75,8.6,14.6 + 7 + 8,,Psy,,Dry. Leaf traits not measured. Roots branched and cut.
+DG14,S5(5),S5,NA,1.48,0.69,1.5,20.4,15.4,,Psy,,Dry. Leaf traits not measured.  ~ 30 % root lost while sampling.
+DG14,S5(6),S5,NA,1.16,0.56,0.74,16.8,22.4,,Psy,,Dry. Leaf traits not measured.
+DG14,S5(7),S5,NA,2.33,1.22,0.41,19.4,10.8,,Psy,,Dry. Leaf traits not measured.
+DG14,S5(8),S5,NA,0.62,0.46,0.11,17.2,5.4,,Psy,,Dry. Leaf traits not measured. ~ 40 % root lost while sampling.
+DG14,S5(9),S5,NA,0.23,0.11,0.08,8.2,9.4,,Psy,,Dry. Leaf traits not measured.
+DG14,S5(10),S5,NA,2.27,1.42,0.95,23,13.6,,Psy,,Dry. Leaf traits not measured.
+DG14,S5(11),S5,NA,0.35,0.23,0.15,11.6,11.6,,Psy,,Dry. Leaf traits not measured.
+DG14,S5(12),S5,NA,1.17,0.66,0.49,16.2,12 + 12,,Psy,,Dry. Leaf traits not measured.
+DG16,S1(1),S1,0.18,0.54,0.21,0.19,12.2,6.5 + 4.3,,,"Galaxy J6: 20210128_192403, 20210128_192437, 20210128_192530  ",Unidentied.
+DG16,S1(2),S1,0.22,1.31,0.79,NA,25,NA,,,,Root lost. Only one leaf available; it was scanned.
+DG16,S2(1),S2,1.05,4.04,2.08,0.78,23.6,15.4,,,"Galaxy J6: 20210128_192558, 20210128_192613, 20210128_192717",Unidentied.
+DG16,S2(2),S2,0.38,1.68,0.77,0.46,21.2,8.4,,,,
+DG16,S3,S3,0.57,2.9(?),.99(?),NA,24(?),NA,,,"Galaxy J6: 20210128_192743, 20210128_192757, 20210128_192812",Unidentied. Root lost. An unkown portion of the stem was lost.
+DG16,S4(1),S4,0.49,1.68,0.32,0.34,10.2,9.4,,,"Galaxy J6: 20210128_192847, 20210128_193311, 20210128_193324",Unidentied. Simplocos sp?
+DG16,S4(2),S4,0.82,2.98,0.72,0.52,16.8,8.8,,,,
+DG16,S4(3),S4,0.81,4.22,1.62,1.34,24.2,10.4,,,,~ 60 % root lost while sampling.
+DG16,S4(4),S4,0.4,2.08,0.87,0.64,20.6,10,,,,~ 40 % root lost while sampling.
+DG16,S4(5),S4,NA,2.14,0.62,0.41,17.2,10.4,,,,Herbivored; leaves not scanned. 
+DG16,S4(6),S4,0.36,1.79,0.42,0.29,11.6,6.2,,,,
+DG16,S4(7),S4,NA,1.43,0.5,0.27,11.6,4.4,,,,Herbivored; leaves not scanned. ~ 80 % root lost while sampling.
+DG16,S5(1),S5,1.44,6.34,2.91,0.91,24.5,10.6,,,"Galaxy J6: 20210128_193454, 20210128_193509, 20210128_193525",Unidentied. Psychotria sp?
+DG16,S5(2),S5,0.36,1.58,0.68,0.22,10.4,4.8,,,,~ 30 % root lost while sampling.
+DG16,S5(3),S5,0.85,9.39,4.5,1.08,29.8 + 8.8,10.2 + 8.4,,,,Branched stem. Roots branched and cut; ~ 30 % of one part lost while sampling.
+DG16,S5(4),S5,0.85,5.56,3.56,0.79,31.6,10.8,,,,
+DG16,S5(5),S5,1.07,4.66,2.31,0.72,19.8,10.8,,,,
+DG16,S5(6),S5,NA,3.41,1.59,0.51,20.8,7.8,,,,Herbivored; leaves not scanned. ~ 10 % root lost while sampling.
+DG16,S5(7),S5,0.27,1.21,0.72,0.1,12.8,3.8,,,,~ 40 % root lost while sampling.
+DG16,S5(8),S5,0.47,2.56,0.47,0.27,15.4,6.6,,,,
+DG16,S5(9),S5,0.36,1.44,0.76,0.12,12.4,4.2,,,,~ 10 % root lost while sampling.
+DG16,S5(10),S5,0.41,2.01,1.2,0.2,16.8,11.6,,,,
+DG16,S5(11),S5,0.34,1.75,0.73,0.18,11.8,6.2,,,,
+DG16,S5(12),S5,0.42,2.66,1.18,0.21,16.2,4.6,,,,~ 40 % root lost while sampling.
+DG15,S1,S1,0.85,6.89,1.56,0.83,24 + 10.6,13.8,,Syz,"Galaxy J6: 20210130_090234, 20210130_090255, 20210130_090316",Unidentified. Syzygium sp? Branched stem.
+DG15,S2(1),S2,NA,13.49,6.41,3.4,41.6,21.4,,PsyNig,"Galaxy J6: 20210130_090342, 20210130_090355, 20210130_090407",Unidentified. Psychotria sp? Dried; leaves not scanned.
+DG15,S2(2),S2,NA,6.54,3.15,0.94,24.2,12.6,,PsyNig,,Herbivored; leaves not scanned.
+DG15,S2(3),S2,1.92,8.02,3.97,1.38,28.6,9,,PsyNig,,~ 40 % root lost while sampling.
+DG15,S2(4),S2,0.66,5.22,2.36,0.69,19.2,7.8,,PsyNig,,Herbivored; only 01 leaf scanned. ~ 20 % root lost while sampling.
+DG15,S2(5),S2,2.06,7.11,2.2,3.61,15,23.2 + 8,,PsyNig,,Branched root.
+DG15,S2(6),S2,0.6,3.41,0.92,0.9,10.4,14.6,,PsyNig,,
+DG15,S2(7),S2,0.43,1.58,0.64,0.32,10,7.4,,PsyNig,,
+DG15,S2(8),S2,0.41,2.03,0.88,0.26,11.6,10,,PsyNig,,
+DG15,S2(9),S2,NA,1.75,0.74,0.33,13.6,8.4 + 4.6,,PsyNig,,Herbivored; leaves not scanned.
+DG15,S2(10),S2,0.61,2.12,0.83,0.3,12.2,8.4,,PsyNig,,
+DG15,S2(11),S2,0.4,1.68,0.87,0.15,12.8,6,,PsyNig,,
+DG15,S2(12),S2,0.83,2.86,1.1,0.41,13.4,7.2 + 3.4,,PsyNig,,Branched root.
+DG15,S2(13),S2,0.3,1.17,0.49,0.22,9.2,5.2,,PsyNig,,
+DG15,S2(14),S2,0.28,1.59,0.67,0.35,10.2,9.5 + 6.8,,PsyNig,,Branched root.
+DG15,S2(15),S2,0.5,2.21,0.82,0.27,10.6,4.6,,PsyNig,,~ 60 % root lost while sampling.
+DG15,S2(16),S2,0.68,2.34,0.93,0.22,12.8,3.2,,PsyNig,,~ 80 % root lost while sampling.
+DG15,S2(17),S2,0.5,2.11,0.96,0.3,14.2,11.2,,PsyNig,,
+DG15,S2(18),S2,0.49,2.04,0.85,0.38,11.4,9.5,,PsyNig,,
+DG10,S1(1),S1,0.23,1.82,0.75,2.84,19.2,18.2,,,"Galaxy J6: 20210130_144559, 20210130_144617, 20210130_144628 ",Unidentified. ~ 30 % root lost while sampling.
+DG10,S1(2),S1,0.19,1.38,0.5,0.68,16.8,10,,,,~ 40 % root lost while sampling.
+DG10,S2(1),S2,0.2,0.74,0.32,0.17,0.33,4.4,,,,Simplocos sp.  60 % root lost while sampling.
+DG10,S2(2),S2,0.23,1.71,0.98,0.68,17.2,8.2,,,,~ 60 % root lost while sampling.
+DG10,S2(3),S2,NA,2.58,2.03,1.18,27.6,13,,,,~ 60 % root lost while sampling. Herbivored; leaves not scanned.
+DG10,S4(1),S4,1.75,8.23,3.66,3.11,21.2,18 + 6.4 + 8 + 11 + 6.5 + 9.2 + 8.6,,PsyNig,,Psychotria sp.
+DG10,S4(2),S4,0.85,2.72,1.43,0.28,16,5.6,,PsyNig,,
+DG10,S4(3),S4,NA,14.2,9.93,4.4,29.6 + 21.6,14.4 + 5.8 + 9.8 + 7.2 + 7.8 + 4.6 + 3.6 ,,PsyNig,,Dried; leaves not scanned. Branched root and stem.
+DG10,S4(4),S4,,0.55,0.22,0.19,11.4,3.4 + 8.6 + 11,,PsyNig,,Dried; leaves not scanned. Branched root.
+DG10,S4(5),S4,NA,NA,NA,NA,NA,NA,,PsyNig,,Unknown portion of stem lost. Root lost. Dried. Not considered for measurement.
+DG10,S4(6),S4,NA,NA,NA,NA,NA,NA,,PsyNig,,Unknown portion of stem lost. Root lost. Dried. Not considered for measurement.
+DG10,S5(1),S5,0.14,0.67,0.22,0.34,14.8,4.4,,Cin,,Cinnamommum sp. ~ 80 % root lost while sampling.
+DG10,S5(2),S5,NA,3.69,2.08,3.16,28.2 + 4.5,18.8,,Cin,,Dried; leaaves not scanned. Stem broken while measuring.
+DG10,S5(3),S5,0.69,2.91,1.28,NA,19.6,NA,,Cin,,
+DG10,S5(4),S5,NA,4.24,3.1,NA,39,NA,,Cin,,Dried; leaaves not scanned.
+DG18,S1(1),S1,NA,3.71,2.59,1.72,21 + 19.6 + 8 + 9.2 + 5 + 17.4,12.2,,Syz,"Galaxy J6: 20210131_190557, 20210131_190604, 20210131_190612",Syzygium sp? Dried; leaaves not scanned. ~ 60 % root lost while sampling.
+DG18,S1(2),S1,NA,5.24,5.08,3.56,30.2 + 19.6 + 7.6 + 15.2 + 17.2 + 12.6,19.6,,Syz,,Dried; leaaves not scanned.  ~ 40 % root lost while sampling.
+DG18,S1(3),S1,NA,4,3.04,3.03,37.4 + 13.8 + 12.6 + 14.8,15.4,,Syz,,Dried; leaaves not scanned.  ~ 60 % root lost while sampling.
+DG18,S1(4),S1,NA,2.74,1.92,1.1,29.2 + 27,21,,Syz,,Dried; leaaves not scanned.  Branched stem.
+DG18,S1(5),S1,NA,3.14,1.64,0.72,25 + 22.8 + 8.6,8.8,,Syz,,Dried; leaaves not scanned.  Branched stem. ~ 60 % root lost while sampling.
+DG18,S1(6),S1,0.16,1.28,0.57,0.52,22.5,12.2,,Syz,,~ 10 % root lost while sampling.
+DG18,S1(7),S1,0.07,1.36,0.87,0.29,22.6 + 13.8,6.5,,Syz,,~ 60 % root lost while sampling.
+DG18,S1(8),S1,NA,1.3,1.02,0.55,20.4,11.4,,Syz,,Dried; leaaves not scanned. ~ 10 % root lost while sampling.
+DG18,S1(9),S1,NA,0.74,0.65,1.12,25 + 20.2,20,,Syz,,Dried; leaaves not scanned. ~ 10 % root lost while sampling.
+DG18,S1(10),S1,NA,1.78,1.29,0.33,32.4 + 7,4.6,,Syz,,Dried; leaaves not scanned. Branched stem.
+DG18,S1(11),S1,NA,0.75,0.38,0.46,24,15.8 + 8.2,,Syz,,Dried; leaaves not scanned. Branched root.
+DG18,S2(1),S2,NA,4.05,2.72,1.34,31.4,17.6,,PsyNig,"Galaxy J6: 20210131_190647, 20210131_190654, 20210131_190700 ",Psychotria sp? Dried; leaaves not scanned. 
+DG18,S2(2),S2,0.73,3.08,1.81,1.37,21.2,16.4 + 5.2,,PsyNig,,~ 10 % root lost while sampling.
+DG18,S2(3),S2,0.24,1.18,0.46,0.18,9.4,10.2,,PsyNig,,
+DG18,S2(4),S2,0.2,0.78,0.37,0.14,8.8,5.8,,PsyNig,,
+DG18,S2(5),S2,0.33,2.44,1.12,0.32,15.8,9,,PsyNig,,
+DG18,S2(6),S2,0.27,1.27,0.62,0.28,10.8,4.4 + 4.6,,PsyNig,,~ 20 % root lost while sampling.
+DG18,S2(7),S2,0.18,0.9,0.35,0.18,8.6,4.2 + 6.8,,PsyNig,,~ 20 % root lost while sampling. Branched root.
+DG17,S1,S1,1.25,3.7,0.74,1.83,17.2,11.8,,,"Galaxy J6: 20210201_220959, 20210201_221014, 20210201_221027",Unidentified. ~ 60 % root lost while sampling. Herbivored; only 01 leaf scanned.
+DG17,S2,S2,0.17,1.17,0.49,0.75,23,14.2,,,"Galaxy J6: 20210201_220043, 20210201_221052, 20210201_221102",Unidentified. ~ 40 % root lost while sampling. Herbivored; only 01 leaf scanned.
+DG17,S3,S3,0.14,0.9,0.47,0.59,21.2,21,,,"Galaxy J6: 20210201_221122, 20210201_221145, 20210201_221151",Unidentified. Herbivored; only 01 leaf scanned.
+DG17,S4,S4,0.11,0.97,0.52,0.27,12.2,5.8 + 4.2,,,"Galaxy J6: 20210131_190647, 20210131_190654, 20210131_190700 ",Psychotria sp. Branched root; ~ 20 % one branch lost while sampling. 
+DG17,S5(1),S5,0.38,2.25,1.07,0.49,30.8,5.6,,Cin,,Cinnamomum sp. Herbivored; only 01 leaf scanned. ~ 80 % root lost while sampling.
+DG17,S5(2),S5,0.52,1.37,0.41,1.28,15.6,8.4 + 10.2,,Cin,,~ 60 % root lost while sampling.
+DG16,S1(1),S1,0.18,0.55,0.79,0.48,27,11.6,,Syz,"Galaxy J6: 20210202_092350,  20210202_092359,  20210202_092408",Unidentified. Syzygium sp.
+DG16,S1(2),S1,NA,1.03,0.6,0.33,29.6,12,,,,Dried; leaves not scanned. 
+DG16,S2,S2,NA,2.32,2.09,0.78,27.2 + 12.5,5,,,"Galaxy J6: 20210202_092638,  20210202_092646,  20210202_092703",Unidentified. Stem broken. Dried; leaves not scanned. 
+DG16,S3(1),S3,0.4,2.77,1.04,NA,14.4,NA,,Psy,"Galaxy J6: 20210202_092723,  20210202_092734,  20210202_092742",Unidentified. Psychotria sp?
+DG16,S3(2),S3,NA,1.1,0.66,0.32,22.4,5.2,,Psy,,Dried; leaves not scanned.  ~ 80 % root lost while sampling.
+DG16,S3(3),S3,0.79,4.29,2.19,0.61,24.5,5.6,,,, ~ 80 % root lost while sampling.
+DG16,S4,S4,0.81,3.04,0.78,1.72,18.8,15.8,,,"Galaxy J6: 20210202_092758,  20210202_092822,  20210202_092902",Unidentified. ~ 60 % root lost while sampling.
+DG16,S5(1),S5,0.81,9.2,6.65,11.08,18 + 18.6,28.6,,,"Galaxy J6: 20210202_092938,  20210202_092950,  20210202_093001 ",Unidentified. Simplocos sp?  ~ 40 % root lost while sampling. Stem broken.
+DG16,S5(2),S5,0.24,3.42,2.76,2.81,37,29.2,,,, ~ 10 % root lost while sampling.
+DG16,S5(3),S5,NA,3.95,3.43,3.04,36.2,14.8,,,,Herbivored; leaves not scanned.  ~ 60 % root lost while sampling.
+DG16,S5(4),S5,0.29,2.67,1.64,2.23,28.2,20.4,,,, ~ 40 % root lost while sampling. Herbivored; only 01 leaf scanned.
+DG16,S5(5),S5,0.51,5.99,2.94,1.82,31.6,8.2,,,, ~ 80 % root lost while sampling. Herbivored; only 01 leaf scanned.
+DG16,S5(6),S5,0.23,3.8,2.66,1.37,29,9.6,,,,~ 80 % root lost while sampling.  
+DG16,S5(7),S5,0.29,2.77,1.81,0.94,23.8,8.2,,,,~ 80 % root lost while sampling.  
+DG16,S5(8),S5,0.22,2.05,1.54,1.92,24.4,14.2,,,,~ 60 % root lost while sampling.  
+DG16,S5(9),S5,0.34,2.2,1.14,0.79,22,9.8,,,,~ 60 % root lost while sampling.  
+DG16,S5(10),S5,0.28,0.97,1.06,1.23,17.4,9,,,,~ 60 % root lost while sampling.  
+DG16,S5(11),S5,0.24,1.24,0.69,2.12,16.2,12.6,,,,~ 60 % root lost while sampling.  
+DG16,S5(12),S5,0.26,1.12,0.46,NA,12.8,NA,,,,Root lost while sampling.
+DG16,S5(13),S5,0.17,1.8,1.4,2.82,13,17.6,,,,~ 40 % root lost while sampling.  
+DG16,S5(14),S5,0.18,2.78,2.15,1.5,24.5,7.2,,,,~ 80 % root lost while sampling.  
+DG16,S5(15),S5,0.13,0.73,0.13,0.49,18.8,13.6,,,,~ 10 % root lost while sampling.  
+DG16,S5(16),S5,0.14,2.11,1.26,1.49,21.2,16.5,,,,~ 20 % root lost while sampling.  
+DG16,S5(17),S5,0.24,1.78,1.32,1.12,24,12,,,,
+DG19,S1,S1,0.38,3.24,1.49,3.52,26.8,25.6,,,"Galaxy J6: 20210202_173010,  20210202_173021,  20210202_173048",Unidentified. ~ 30 % root lost while sampling. 
+DG19,S2(1),S2,0.7,8.71,2.95,6.72,28 + 6.2 + 8.8 + 8.8 + 16.4,22.8,,,"Galaxy J6: 20210202_173119,  20210202_173137,  20210202_173147",Unidentified. ~ 40 % root lost while sampling. 
+DG19,S2(2),S2,0.37,1.48,0.81,0.28,18.5,16,,,,
+DG19,S3(1),S3,0.7,6.89,4.15,3.44,31.8 = 14.4 + 8.5 + 11.2 + 3,20.2,,,"Galaxy J6: 20210202_173217,  20210202_173229,  20210202_173240",Unidentified. ~ 20 % root lost while sampling. 
+DG19,S3(2),S3,0.19,1.36,0.63,0.75,17.4,11.2,,,,~ 10 % root lost while sampling. Herbivored; pnly 01 leaf scanned.
+DG19,S4,S4,0.09,0.94,0.78,1.24,24.2,22,,,"Galaxy J6: 20210202_173310,  20210202_173454,  20210202_173504",Unidentified. Only 01 healthy leaf; it was scanned.
+DG19,S5,S5,0.04,0.96,0.53,0.21,17.2,5.2,,,"Galaxy J6: 20210202_173535,  20210202_173548,  20210202_173556",Unidentified. Herbivored; only 01 leaf scanned. ~ 60 % root lost while sampling. 
+DG19,S6,S6,0.7,2.77,1.71,5.82,30 = 36.5,32.5,,,"Galaxy J6: 20210202_173622,  20210202_173631,  20210202_173640",Unidentified. Branched stem.
+DG19,S7,S7,0.22,1.62,0.75,1.2,23.4,21.8,,,"Galaxy J6: 20210202_173713,  20210202_173755,  20210202_181743",Unidentified.
+DG19,S8(1),S8,0.08,2.12,1.35,0.42,21.2,14.8 + 7.2,,Psy,"Galaxy J6: 20210202_181837,  20210202_181851,  20210202_181906",Psychotria sp. Herbivored; only 01 leaf scanned. 
+DG19,S8(2),S8,0.24,0.99,0.56,0.32,11,10.4 + 4,,Psy,,
+DG19,S8(3),S8,0.18,1.27,0.93,0.27,16.8,11.8 + 4.4,,Psy,,
+DG19,S9(1),S9,0.19,2.32,0.94,0.67,26.8 + 4.8,8.6,,Syz,"Galaxy J6: 20210202_173004,  20210202_182026, 20210202_182063",Syzygium sp. ~ 60 % root lost while sampling. 
+DG19,S9(2),S9,NA,0.9,0.89,0.26,29.6 + 9.8,11.6,,Syz,,Dried; leaves not scanned.
+DG19,S9(3),S9,NA,0.39,0.34,0.34,16.4 + 2,15.8,,Syz,,Dried; leaves not scanned.
+DG19,S9(4),S9,NA,0.41,0.21,0.58,18.6,24.2,,Syz,,Dried; leaves not scanned.
+DG19,S9(5),S9,NA,0.18,0.08,0.05,13.2,10.8,,Syz,,Dried; leaves not scanned.
+DG19,S9(6),S9,NA,0.36,0.16,NA,16.6,NA,,Syz,,Dried; leaves not scanned. Root lost while sampling.
+DG19,S9(7),S9,NA,1.12,1.02,0.84,24.2 + 13.8,20,,Syz,,Dried; leaves not scanned. Branched stem.
+DG20,S1(1),S1,0.14,1.38,0.9,0.54,21.8,8.8,,,"Galaxy J6: 20210205_204144,  20210205_204154, 20210205_204212",Simplocos sp? ~ 40 % root lost while sampling. 
+DG20,S1(2),S1,0.54,3.86,1.81,3.39,24.8,19.4,,,,~ 40 % root lost while sampling. 
+DG20,S2(1),S2,0.23,2.66,1.03,0.4,28.4 + 11.8,6.6,,,"Galaxy J6: 20210205_204237,  20210205_204245, 20210205_204300",Syzygium sp? ~ 80 % root lost while sampling.  Branched stem.
+DG20,S2(2),S2,0.11,2.73,1.41,1.14,23.8 + 24.8,18.2,,,,
+DG20,S2(3),S2,NA,1.7,0.89,1.13,20 + 12.8,19.6,,,,Dried; leaves not scanned.
+DG20,S3(1),S3,0.74,8.51,5.38,3.87,29,16.6 + 15.8 + 11.8,,Psy,"Galaxy J6: 20210205_204319,  20210205_204328, 20210205_204340",Psychotria sp? Herbivored; leaves not scanned. Branched roots.
+DG20,S3(2),S3,0.64,3.83,1.74,7.08,23,36.2 + 14.2,,Psy,,~ 20 % root lost while sampling. Branched roots.
+DG20,S3(3),S3,NA,0.95,0.3,0.19,6.2,13.8,,Psy,,Herbivored; leaves not scanned.
+DG20,S3(4),S3,0.36,1.94,1.12,0.78,16.8,15,,Psy,,
+DG20,S3(5),S3,0.65,4.77,2.75,1.03,26.8,17.8 + 5.2,,Psy,,Branched root.
+DG20,S3(6),S3,0.51,2.68,0.93,0.44,12.6,9.2 + 2.2,,Psy,,
+DG20,S3(7),S3,0.14,1.17,0.52,0.27,9.8,8.6,,Psy,,
+DG21,S1(1),S1,0.21,1.71,0.54,0.49,13.8 + 3.2,12.4,,Syz,"Galaxy J6: 20210209_173336, 20210209_173406, 20210209_173423",Syzygium sp?
+DG21,S1(2),S1,0.22,1.69,0.59,0.22,20,2.4,,Syz,,~ 20 % root lost while sampling.
+DG21,S1(3),S1,NA,1.66,0.64,1.5,18.4 + 9.6,17.2,,Syz,,Dried; leaves not scanned.
+DG21,S1(4),S1,0.13,0.86,0.24,0.23,15.2,11.6,,Syz,,
+DG21,S1(5),S1,0.18,2.49,1.08,0.52,23.4 + 9.4 + 4.4 ,16,,Syz,,Branched stem.
+EXTRA2,S1 (1),S1,1.17,9.38,5.74,4.7,35,17.4,,SymRac,,
+EXTRA2,S1 (2),S1,0.28,6.93,4.85,2.08,30,11,,SymRac,,
+EXTRA2,S1 (3),S1,0.07,0.4,0.21,0.06,11.3,6.2,,SymRac,,
+EXTRA2,S1 (4),S1,0.28,1.48,0.63,0.56,13.1,10.9,,SymRac,,
+EXTRA2,S1 (5),S1,0.07,0.85,0.6,0.52,21.1,8.1,,SymRac,,
+EXTRA2,S1 (6),S1,0.03,0.07,0.08,0.05,7.6,2,,SymRac,,
+EXTRA2,S1 (7),S1,1.19,5.21,2.13,4.17,25,26,,SymRac,,
+EXTRA2,S1 (8),S1,0.24,0.82,0.34,0.58,11.1,14,,SymRac,,
+EXTRA2,S2,S2,0.4,3.89,2,1.04,21,7,,Syz,,
+EXTRA2,S3,S3,0.37,3.09,2.37,3,21.6,24.4,,,,
+EXTRA2,S4,S4,0.47,5.94,5.22,2.88,35.1,10.6,,,,
+EXTRA2,S5,S5,0.15,0.26,0.11,0.13,9.1,9,,,,
+EXTRA2,S6,S6,0.1,0.6,0.4,0.34,15.5,11.6,,,,
+KDM1,S1 (2),S1,1.78,5.04,1.81,1.43,18.2,11.1,,PsyNig,,
+KDM1,S2,S2,0.27,1.59,0.82,0.46,20.6,8.4,,,,
+KDM4,S1,S1,0.07,0.48,0.3,0.09,9.8,6,,,,
